@@ -2,75 +2,130 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-from datetime import datetime
+import os
 
-# URL de donde sacamos los datos (Página oficial o un portal de noticias confiable)
-# Usamos un portal de noticias de Chaco porque suelen ser más fáciles de leer que la web oficial
-URL = "https://www.noticiasdelparana.com.ar/resultados-de-la-quiniela" 
-# (Nota: Esto es un ejemplo genérico, idealmente se busca la URL específica de la poceada)
+# Nombre del archivo JSON
+ARCHIVO_JSON = 'datos_poceada.json'
 
-def obtener_datos():
-    # 1. Fingimos ser un navegador real para que no nos bloqueen
+def actualizar_diario():
+    print("--- INICIANDO ROBOT DIARIO ---")
+    
+    # 1. LEER EL ÚLTIMO SORTEO GUARDADO
+    try:
+        if os.path.exists(ARCHIVO_JSON):
+            with open(ARCHIVO_JSON, 'r', encoding='utf-8') as f:
+                historial = json.load(f)
+        else:
+            historial = []
+    except Exception:
+        historial = []
+        
+    # Buscamos el ID más alto que tengamos guardado
+    ultimo_id = 451 # Base por defecto
+    if historial:
+        # Asumimos que el primero es el más nuevo
+        ultimo_id = historial[0].get('numeroSorteo', 451)
+    
+    siguiente_id = ultimo_id + 1
+    print(f"Último sorteo guardado: {ultimo_id}. Buscando el siguiente: {siguiente_id}...")
+
+    # 2. INTENTAR DESCARGAR EL SIGUIENTE
+    url = f"https://loteria.chaco.gov.ar/detalle_poceada/{siguiente_id}"
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
-    
+
     try:
-        response = requests.get(URL, headers=headers)
+        response = requests.get(url, headers=headers)
+        
+        # Si la web da error 404 o 500, es que todavía no se sorteó
+        if response.status_code != 200:
+            print(f"⚠️ El sorteo {siguiente_id} aún no está disponible (Código {response.status_code}).")
+            return # Terminamos por hoy
+
         soup = BeautifulSoup(response.content, 'html.parser')
+
+        # --- LÓGICA DE EXTRACCIÓN (LA MISMA QUE PROBAMOS Y FUNCIONA) ---
+        numeros = []
+        items_lista = soup.find_all("li", class_="results-list__item")
         
-        # --- AQUÍ COMIENZA LA MAGIA DE BUSCAR LOS NÚMEROS ---
-        # Esta parte depende 100% de cómo esté hecha la página web hoy.
-        # Este es un ejemplo de lógica de búsqueda:
+        for item in items_lista:
+            parrafos = item.find_all("p", class_="results-number")
+            if len(parrafos) == 2:
+                texto_numero = parrafos[1].text.strip()
+                if texto_numero.isdigit():
+                    numeros.append(int(texto_numero))
         
-        # Buscamos algo que diga "Poceada"
-        # (Lógica simulada para el ejemplo, ya que no puedo navegar en tiempo real la web específica)
+        numeros = sorted(list(set(numeros[:10])))
+
+        if len(numeros) < 5:
+            print("⚠️ La página existe pero no tiene números cargados aún.")
+            return
+
+        # EXTRAER PREMIOS
+        datos_premios = { "pozo5": "$0", "gan5": 0, "vacante5": False, "pozo4": "$0", "gan4": 0, "pozo3": "$0", "gan3": 0, "pozo2": "$0", "gan2": 0 }
         
-        datos_extraidos = {
-            "numeroSorteo": 1234, # Esto debería extraerse
-            "fecha": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "numerosGanadores": [],
-            "pozoEstimado": "Estimado...",
-            "ganadores5aciertos": 0,
-            "monto4aciertos": "$0",
-            "monto3aciertos": "$0",
-            "monto2aciertos": "$0"
+        header_premios = soup.find("h4", string=re.compile("Pozos Quiniela Poceada"))
+        if header_premios:
+            card_body = header_premios.find_parent("div", class_="card").find("article", class_="card-body")
+            filas_premios = card_body.find_all("li", class_="results-list__item")
+            
+            def limpiar(txt): return txt.replace("\n", "").strip()
+
+            if len(filas_premios) > 1:
+                col = filas_premios[1].find_all("p", class_="results-number")
+                if len(col) >= 4:
+                    datos_premios["pozo5"] = limpiar(col[1].text)
+                    cant = limpiar(col[2].text)
+                    datos_premios["vacante5"] = (cant == "VACANTE" or cant == "0")
+                    datos_premios["gan5"] = 0 if datos_premios["vacante5"] else int(cant.replace(".", ""))
+
+            if len(filas_premios) > 2:
+                col = filas_premios[2].find_all("p", class_="results-number")
+                if len(col) >= 4:
+                    datos_premios["gan4"] = int(limpiar(col[2].text).replace(".", ""))
+                    datos_premios["pozo4"] = limpiar(col[3].text)
+            
+            if len(filas_premios) > 3:
+                col = filas_premios[3].find_all("p", class_="results-number")
+                if len(col) >= 4:
+                    datos_premios["gan3"] = int(limpiar(col[2].text).replace(".", ""))
+                    datos_premios["pozo3"] = limpiar(col[3].text)
+            
+            if len(filas_premios) > 4:
+                col = filas_premios[4].find_all("p", class_="results-number")
+                if len(col) >= 4:
+                    datos_premios["gan2"] = int(limpiar(col[2].text).replace(".", ""))
+                    datos_premios["pozo2"] = limpiar(col[3].text)
+
+        # ARMAR OBJETO
+        nuevo_sorteo = {
+            "numeroSorteo": siguiente_id,
+            "fecha": "Fecha Actual", # Podríamos usar datetime.now() aquí
+            "numerosGanadores": numeros,
+            "pozo5aciertos": datos_premios["pozo5"],
+            "vacante5aciertos": datos_premios["vacante5"],
+            "ganadores4aciertos": datos_premios["gan4"],
+            "premio4aciertos": datos_premios["pozo4"],
+            "ganadores3aciertos": datos_premios["gan3"],
+            "premio3aciertos": datos_premios["pozo3"],
+            "ganadores2aciertos": datos_premios["gan2"],
+            "premio2aciertos": datos_premios["pozo2"],
+            "pozoEstimadoProximo": "Ver próximo sorteo", 
+            "fechaProximo": ""
         }
 
-        # SIMULACIÓN DE EXTRACCIÓN (Para que el script funcione y genere el JSON)
-        # En un caso real, aquí haríamos: soup.find('div', class_='numeros-poceada')
-        import random
-        numeros = set()
-        while len(numeros) < 10:
-            numeros.add(random.randint(0, 99))
+        # 3. GUARDAR EL NUEVO SORTEO AL PRINCIPIO
+        historial.insert(0, nuevo_sorteo)
         
-        datos_extraidos["numerosGanadores"] = sorted(list(numeros))
-        datos_extraidos["pozoEstimado"] = "55.000.000" # Simulado
-        
-        # -----------------------------------------------------
-
-        # 2. Leer el archivo actual (para mantener el historial)
-        try:
-            with open('datos_poceada.json', 'r') as f:
-                historial = json.load(f)
-        except FileNotFoundError:
-            historial = []
-
-        # 3. Agregamos el nuevo sorteo al principio
-        # (Solo si es nuevo, aquí simplificamos agregando siempre para probar)
-        historial.insert(0, datos_extraidos)
-
-        # Guardamos máximo los últimos 50 sorteos para no hacer el archivo pesado
-        historial = historial[:50]
-
-        # 4. Guardar el archivo JSON actualizado
-        with open('datos_poceada.json', 'w') as f:
-            json.dump(historial, f, indent=4)
+        # Guardamos en disco
+        with open(ARCHIVO_JSON, 'w', encoding='utf-8') as f:
+            json.dump(historial, f, indent=4, ensure_ascii=False)
             
-        print("✅ Datos actualizados correctamente")
+        print(f"✅ ¡ÉXITO! Sorteo {siguiente_id} agregado correctamente.")
 
     except Exception as e:
-        print(f"❌ Error en el scraper: {e}")
+        print(f"❌ Error en robot diario: {e}")
 
 if __name__ == "__main__":
-    obtener_datos()
+    actualizar_diario()
