@@ -1,0 +1,35 @@
+name: Robot Poceada
+
+on:
+  schedule:
+    # Se ejecuta a las 14:30 y 22:30 UTC (Ajustar a hora Argentina)
+    - cron: '30 14,22 * * *' 
+  workflow_dispatch: # Permite ejecutarlo manualmente con un botón para probar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Bajar código
+        uses: actions/checkout@v2
+
+      - name: Instalar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Instalar librerías
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Ejecutar Robot
+        run: python scraper.py
+
+      - name: Guardar cambios
+        run: |
+          git config --global user.name 'Robot Poceada'
+          git config --global user.email 'robot@noreply.github.com'
+          git add datos_poceada.json
+          git commit -m "Nuevos resultados sorteo" || exit 0
+          git push
