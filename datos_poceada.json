@@ -1,7 +1,33 @@
 [
     {
+        "numeroSorteo": 868,
+        "fecha": "2025-11-22 21:00:00",
+        "numerosGanadores": [
+            4,
+            17,
+            22,
+            24,
+            30,
+            44,
+            58,
+            71,
+            88,
+            97
+        ],
+        "pozo5aciertos": "132.054.497,34",
+        "vacante5aciertos": false,
+        "ganadores4aciertos": 59,
+        "premio4aciertos": "374.502,20",
+        "ganadores3aciertos": 1990,
+        "premio3aciertos": "2.775,83",
+        "ganadores2aciertos": 19341,
+        "premio2aciertos": "1.000,00",
+        "pozoEstimadoProximo": "0",
+        "fechaProximo": ""
+    },
+    {
         "numeroSorteo": 867,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-20 21:00:00",
         "numerosGanadores": [
             8,
             13,
@@ -22,12 +48,12 @@
         "premio3aciertos": "2.076,20",
         "ganadores2aciertos": 14778,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 866,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-18 21:00:00",
         "numerosGanadores": [
             6,
             14,
@@ -48,12 +74,12 @@
         "premio3aciertos": "3.576,63",
         "ganadores2aciertos": 17338,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 865,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-15 21:00:00",
         "numerosGanadores": [
             0,
             20,
@@ -74,12 +100,12 @@
         "premio3aciertos": "4.406,58",
         "ganadores2aciertos": 11589,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 864,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-13 21:00:00",
         "numerosGanadores": [
             0,
             4,
@@ -100,12 +126,12 @@
         "premio3aciertos": "4.903,64",
         "ganadores2aciertos": 10058,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 863,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-11 21:00:00",
         "numerosGanadores": [
             4,
             8,
@@ -126,12 +152,12 @@
         "premio3aciertos": "2.631,40",
         "ganadores2aciertos": 14443,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 862,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-08 21:00:00",
         "numerosGanadores": [
             3,
             21,
@@ -152,12 +178,12 @@
         "premio3aciertos": "4.682,36",
         "ganadores2aciertos": 16945,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 861,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-06 21:00:00",
         "numerosGanadores": [
             12,
             14,
@@ -178,12 +204,12 @@
         "premio3aciertos": "3.536,79",
         "ganadores2aciertos": 13073,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 860,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-04 21:00:00",
         "numerosGanadores": [
             31,
             45,
@@ -204,12 +230,12 @@
         "premio3aciertos": "5.683,14",
         "ganadores2aciertos": 19201,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 859,
-        "fecha": "2024-01-01",
+        "fecha": "2025-11-01 21:00:00",
         "numerosGanadores": [
             0,
             17,
@@ -230,12 +256,12 @@
         "premio3aciertos": "3.198,42",
         "ganadores2aciertos": 22254,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 858,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-30 21:00:00",
         "numerosGanadores": [
             7,
             14,
@@ -256,12 +282,12 @@
         "premio3aciertos": "4.726,93",
         "ganadores2aciertos": 13026,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 857,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-28 21:00:00",
         "numerosGanadores": [
             2,
             11,
@@ -282,12 +308,12 @@
         "premio3aciertos": "3.797,32",
         "ganadores2aciertos": 10966,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 856,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-25 21:00:00",
         "numerosGanadores": [
             0,
             17,
@@ -308,12 +334,12 @@
         "premio3aciertos": "2.666,82",
         "ganadores2aciertos": 18503,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 855,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-23 21:00:00",
         "numerosGanadores": [
             30,
             34,
@@ -334,12 +360,12 @@
         "premio3aciertos": "5.548,96",
         "ganadores2aciertos": 7234,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 854,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-21 21:00:00",
         "numerosGanadores": [
             1,
             4,
@@ -360,12 +386,12 @@
         "premio3aciertos": "2.218,40",
         "ganadores2aciertos": 14890,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 853,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-18 21:00:00",
         "numerosGanadores": [
             0,
             19,
@@ -386,12 +412,12 @@
         "premio3aciertos": "5.100,45",
         "ganadores2aciertos": 11107,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 852,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-16 21:00:00",
         "numerosGanadores": [
             5,
             12,
@@ -412,12 +438,12 @@
         "premio3aciertos": "3.066,22",
         "ganadores2aciertos": 21515,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 851,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-14 21:00:00",
         "numerosGanadores": [
             2,
             29,
@@ -438,12 +464,12 @@
         "premio3aciertos": "3.781,96",
         "ganadores2aciertos": 16994,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 850,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-11 21:00:00",
         "numerosGanadores": [
             11,
             25,
@@ -464,12 +490,12 @@
         "premio3aciertos": "4.230,04",
         "ganadores2aciertos": 11725,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 849,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-09 21:00:00",
         "numerosGanadores": [
             9,
             16,
@@ -490,12 +516,12 @@
         "premio3aciertos": "5.094,84",
         "ganadores2aciertos": 10147,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 848,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-07 21:00:00",
         "numerosGanadores": [
             18,
             25,
@@ -516,12 +542,12 @@
         "premio3aciertos": "4.774,92",
         "ganadores2aciertos": 11310,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 847,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-04 21:00:00",
         "numerosGanadores": [
             3,
             11,
@@ -542,12 +568,12 @@
         "premio3aciertos": "4.980,63",
         "ganadores2aciertos": 19206,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 846,
-        "fecha": "2024-01-01",
+        "fecha": "2025-10-02 21:00:00",
         "numerosGanadores": [
             11,
             34,
@@ -568,12 +594,12 @@
         "premio3aciertos": "4.179,05",
         "ganadores2aciertos": 14080,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 845,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-30 21:00:00",
         "numerosGanadores": [
             7,
             12,
@@ -594,12 +620,12 @@
         "premio3aciertos": "3.819,71",
         "ganadores2aciertos": 11076,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 844,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-27 21:00:00",
         "numerosGanadores": [
             10,
             15,
@@ -620,12 +646,12 @@
         "premio3aciertos": "4.876,96",
         "ganadores2aciertos": 12102,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 843,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-25 21:00:00",
         "numerosGanadores": [
             5,
             7,
@@ -646,12 +672,12 @@
         "premio3aciertos": "3.286,29",
         "ganadores2aciertos": 21352,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 842,
-        "fecha": "2024-01-01",
+        "fecha": "2020-09-23 21:00:00",
         "numerosGanadores": [
             3,
             31,
@@ -672,12 +698,12 @@
         "premio3aciertos": "4.445,76",
         "ganadores2aciertos": 14845,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 841,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-20 21:00:00",
         "numerosGanadores": [
             1,
             13,
@@ -698,12 +724,12 @@
         "premio3aciertos": "4.889,87",
         "ganadores2aciertos": 33418,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 840,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-18 21:00:00",
         "numerosGanadores": [
             15,
             41,
@@ -724,12 +750,12 @@
         "premio3aciertos": "5.785,31",
         "ganadores2aciertos": 21332,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 839,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-16 21:00:00",
         "numerosGanadores": [
             1,
             5,
@@ -750,12 +776,12 @@
         "premio3aciertos": "4.507,56",
         "ganadores2aciertos": 21795,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 838,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-13 21:00:00",
         "numerosGanadores": [
             1,
             3,
@@ -776,12 +802,12 @@
         "premio3aciertos": "3.143,87",
         "ganadores2aciertos": 20016,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 837,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-11 21:00:00",
         "numerosGanadores": [
             0,
             2,
@@ -802,12 +828,12 @@
         "premio3aciertos": "2.295,90",
         "ganadores2aciertos": 16174,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 836,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-09 21:00:00",
         "numerosGanadores": [
             1,
             6,
@@ -828,12 +854,12 @@
         "premio3aciertos": "4.121,14",
         "ganadores2aciertos": 18619,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 835,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-06 21:00:00",
         "numerosGanadores": [
             11,
             13,
@@ -854,12 +880,12 @@
         "premio3aciertos": "3.932,75",
         "ganadores2aciertos": 13664,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 834,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-04 21:00:00",
         "numerosGanadores": [
             18,
             21,
@@ -880,12 +906,12 @@
         "premio3aciertos": "3.435,24",
         "ganadores2aciertos": 26345,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 833,
-        "fecha": "2024-01-01",
+        "fecha": "2025-09-02 21:00:00",
         "numerosGanadores": [
             1,
             7,
@@ -906,12 +932,12 @@
         "premio3aciertos": "4.601,46",
         "ganadores2aciertos": 16865,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 832,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-30 21:00:00",
         "numerosGanadores": [
             24,
             28,
@@ -932,12 +958,12 @@
         "premio3aciertos": "4.058,40",
         "ganadores2aciertos": 12865,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 831,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-28 21:00:00",
         "numerosGanadores": [
             11,
             15,
@@ -958,12 +984,12 @@
         "premio3aciertos": "2.793,10",
         "ganadores2aciertos": 11977,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 830,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-26 21:00:00",
         "numerosGanadores": [
             6,
             12,
@@ -984,12 +1010,12 @@
         "premio3aciertos": "2.780,94",
         "ganadores2aciertos": 13153,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 829,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-23 21:00:00",
         "numerosGanadores": [
             17,
             23,
@@ -1010,12 +1036,12 @@
         "premio3aciertos": "2.750,06",
         "ganadores2aciertos": 19412,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 828,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-21 21:00:00",
         "numerosGanadores": [
             2,
             40,
@@ -1036,12 +1062,12 @@
         "premio3aciertos": "3.976,72",
         "ganadores2aciertos": 9661,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 827,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-19 21:00:00",
         "numerosGanadores": [
             9,
             36,
@@ -1062,12 +1088,12 @@
         "premio3aciertos": "3.998,84",
         "ganadores2aciertos": 9986,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 826,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-16 21:00:00",
         "numerosGanadores": [
             47,
             50,
@@ -1088,12 +1114,12 @@
         "premio3aciertos": "4.983,26",
         "ganadores2aciertos": 12604,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 825,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-14 21:00:00",
         "numerosGanadores": [
             7,
             15,
@@ -1114,12 +1140,12 @@
         "premio3aciertos": "3.094,03",
         "ganadores2aciertos": 12179,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 824,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-12 21:00:00",
         "numerosGanadores": [
             1,
             4,
@@ -1140,12 +1166,12 @@
         "premio3aciertos": "2.595,95",
         "ganadores2aciertos": 14782,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 823,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-09 21:00:00",
         "numerosGanadores": [
             2,
             3,
@@ -1166,12 +1192,12 @@
         "premio3aciertos": "2.640,48",
         "ganadores2aciertos": 16355,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 822,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-07 21:00:00",
         "numerosGanadores": [
             2,
             8,
@@ -1192,12 +1218,12 @@
         "premio3aciertos": "1.640,04",
         "ganadores2aciertos": 19176,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 821,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-05 21:00:00",
         "numerosGanadores": [
             2,
             34,
@@ -1218,12 +1244,12 @@
         "premio3aciertos": "3.643,64",
         "ganadores2aciertos": 19011,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 820,
-        "fecha": "2024-01-01",
+        "fecha": "2025-08-02 21:00:00",
         "numerosGanadores": [
             2,
             10,
@@ -1244,12 +1270,12 @@
         "premio3aciertos": "3.762,74",
         "ganadores2aciertos": 13907,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 819,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-31 21:00:00",
         "numerosGanadores": [
             7,
             14,
@@ -1270,12 +1296,12 @@
         "premio3aciertos": "2.593,94",
         "ganadores2aciertos": 33877,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 818,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-29 21:00:00",
         "numerosGanadores": [
             20,
             40,
@@ -1296,12 +1322,12 @@
         "premio3aciertos": "4.503,07",
         "ganadores2aciertos": 18214,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 817,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-26 21:00:00",
         "numerosGanadores": [
             1,
             16,
@@ -1322,12 +1348,12 @@
         "premio3aciertos": "2.869,31",
         "ganadores2aciertos": 20558,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 816,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-24 21:00:00",
         "numerosGanadores": [
             1,
             5,
@@ -1348,12 +1374,12 @@
         "premio3aciertos": "3.206,55",
         "ganadores2aciertos": 14191,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 815,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-22 21:00:00",
         "numerosGanadores": [
             7,
             18,
@@ -1374,12 +1400,12 @@
         "premio3aciertos": "1.904,45",
         "ganadores2aciertos": 29254,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 814,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-19 21:00:00",
         "numerosGanadores": [
             11,
             31,
@@ -1400,12 +1426,12 @@
         "premio3aciertos": "3.960,70",
         "ganadores2aciertos": 15016,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 813,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-17 21:00:00",
         "numerosGanadores": [
             0,
             14,
@@ -1426,12 +1452,12 @@
         "premio3aciertos": "2.269,71",
         "ganadores2aciertos": 52047,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 812,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-15 21:00:00",
         "numerosGanadores": [
             20,
             24,
@@ -1452,12 +1478,12 @@
         "premio3aciertos": "3.569,72",
         "ganadores2aciertos": 29850,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 811,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-12 21:00:00",
         "numerosGanadores": [
             0,
             8,
@@ -1478,12 +1504,12 @@
         "premio3aciertos": "2.889,36",
         "ganadores2aciertos": 23972,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 810,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-10 21:00:00",
         "numerosGanadores": [
             29,
             31,
@@ -1504,12 +1530,12 @@
         "premio3aciertos": "4.251,32",
         "ganadores2aciertos": 12879,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 809,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-08 21:00:00",
         "numerosGanadores": [
             0,
             24,
@@ -1530,12 +1556,12 @@
         "premio3aciertos": "4.146,12",
         "ganadores2aciertos": 10208,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 808,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-05 21:00:00",
         "numerosGanadores": [
             11,
             27,
@@ -1556,12 +1582,12 @@
         "premio3aciertos": "3.748,22",
         "ganadores2aciertos": 14760,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 807,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-03 21:00:00",
         "numerosGanadores": [
             14,
             25,
@@ -1582,12 +1608,12 @@
         "premio3aciertos": "2.725,09",
         "ganadores2aciertos": 12944,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 806,
-        "fecha": "2024-01-01",
+        "fecha": "2025-07-01 21:00:00",
         "numerosGanadores": [
             3,
             18,
@@ -1608,12 +1634,12 @@
         "premio3aciertos": "1.896,42",
         "ganadores2aciertos": 16728,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 805,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-28 21:00:00",
         "numerosGanadores": [
             8,
             23,
@@ -1634,12 +1660,12 @@
         "premio3aciertos": "2.719,38",
         "ganadores2aciertos": 23694,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 804,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-26 21:00:00",
         "numerosGanadores": [
             4,
             21,
@@ -1660,12 +1686,12 @@
         "premio3aciertos": "3.126,76",
         "ganadores2aciertos": 16675,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 803,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-24 21:00:00",
         "numerosGanadores": [
             2,
             4,
@@ -1686,12 +1712,12 @@
         "premio3aciertos": "4.476,14",
         "ganadores2aciertos": 9934,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 802,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-21 21:00:00",
         "numerosGanadores": [
             3,
             4,
@@ -1712,12 +1738,12 @@
         "premio3aciertos": "2.640,80",
         "ganadores2aciertos": 16247,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 801,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-19 21:00:00",
         "numerosGanadores": [
             2,
             6,
@@ -1738,12 +1764,12 @@
         "premio3aciertos": "1.510,50",
         "ganadores2aciertos": 33781,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 800,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-17 21:00:00",
         "numerosGanadores": [
             6,
             41,
@@ -1764,12 +1790,12 @@
         "premio3aciertos": "3.783,14",
         "ganadores2aciertos": 15657,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 799,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-14 21:00:00",
         "numerosGanadores": [
             1,
             17,
@@ -1790,12 +1816,12 @@
         "premio3aciertos": "2.775,20",
         "ganadores2aciertos": 16153,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 798,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-12 21:00:00",
         "numerosGanadores": [
             0,
             10,
@@ -1816,12 +1842,12 @@
         "premio3aciertos": "3.618,65",
         "ganadores2aciertos": 22161,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 797,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-10 21:00:00",
         "numerosGanadores": [
             19,
             20,
@@ -1842,12 +1868,12 @@
         "premio3aciertos": "2.834,32",
         "ganadores2aciertos": 19325,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 796,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-07 21:00:00",
         "numerosGanadores": [
             12,
             32,
@@ -1868,12 +1894,12 @@
         "premio3aciertos": "2.599,42",
         "ganadores2aciertos": 17178,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 795,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-05 21:00:00",
         "numerosGanadores": [
             0,
             1,
@@ -1894,12 +1920,12 @@
         "premio3aciertos": "2.136,96",
         "ganadores2aciertos": 20217,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 794,
-        "fecha": "2024-01-01",
+        "fecha": "2025-06-03 21:00:00",
         "numerosGanadores": [
             3,
             16,
@@ -1920,12 +1946,12 @@
         "premio3aciertos": "3.561,65",
         "ganadores2aciertos": 11641,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 793,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-31 21:00:00",
         "numerosGanadores": [
             5,
             10,
@@ -1946,12 +1972,12 @@
         "premio3aciertos": "2.117,65",
         "ganadores2aciertos": 16878,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 792,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-29 21:00:00",
         "numerosGanadores": [
             3,
             5,
@@ -1972,12 +1998,12 @@
         "premio3aciertos": "3.279,02",
         "ganadores2aciertos": 13262,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 791,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-27 21:00:00",
         "numerosGanadores": [
             8,
             26,
@@ -1998,12 +2024,12 @@
         "premio3aciertos": "2.714,64",
         "ganadores2aciertos": 26641,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 790,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-24 21:00:00",
         "numerosGanadores": [
             7,
             13,
@@ -2024,12 +2050,12 @@
         "premio3aciertos": "2.838,16",
         "ganadores2aciertos": 23164,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 789,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-22 21:00:00",
         "numerosGanadores": [
             3,
             37,
@@ -2050,12 +2076,12 @@
         "premio3aciertos": "3.946,85",
         "ganadores2aciertos": 11955,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 788,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-20 21:00:00",
         "numerosGanadores": [
             7,
             11,
@@ -2076,12 +2102,12 @@
         "premio3aciertos": "2.285,18",
         "ganadores2aciertos": 45815,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 787,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-17 21:00:00",
         "numerosGanadores": [
             11,
             17,
@@ -2102,12 +2128,12 @@
         "premio3aciertos": "2.709,26",
         "ganadores2aciertos": 31744,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 786,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-15 21:00:00",
         "numerosGanadores": [
             0,
             14,
@@ -2128,12 +2154,12 @@
         "premio3aciertos": "2.182,52",
         "ganadores2aciertos": 22827,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 785,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-13 21:00:00",
         "numerosGanadores": [
             7,
             11,
@@ -2154,12 +2180,12 @@
         "premio3aciertos": "3.367,14",
         "ganadores2aciertos": 13960,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 784,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-10 21:00:00",
         "numerosGanadores": [
             17,
             20,
@@ -2180,12 +2206,12 @@
         "premio3aciertos": "3.707,77",
         "ganadores2aciertos": 28980,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 783,
-        "fecha": "2024-01-01",
+        "fecha": "2008-05-25 21:00:00",
         "numerosGanadores": [
             2,
             11,
@@ -2206,12 +2232,12 @@
         "premio3aciertos": "2.793,26",
         "ganadores2aciertos": 22748,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 782,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-06 21:00:00",
         "numerosGanadores": [
             19,
             20,
@@ -2232,12 +2258,12 @@
         "premio3aciertos": "3.276,65",
         "ganadores2aciertos": 15754,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 781,
-        "fecha": "2024-01-01",
+        "fecha": "2025-05-03 21:00:00",
         "numerosGanadores": [
             21,
             29,
@@ -2258,12 +2284,12 @@
         "premio3aciertos": "3.497,18",
         "ganadores2aciertos": 12374,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 780,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-29 21:00:00",
         "numerosGanadores": [
             2,
             25,
@@ -2284,12 +2310,12 @@
         "premio3aciertos": "3.137,05",
         "ganadores2aciertos": 15821,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 779,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-26 21:00:00",
         "numerosGanadores": [
             6,
             14,
@@ -2310,12 +2336,12 @@
         "premio3aciertos": "3.218,76",
         "ganadores2aciertos": 11805,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 778,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-24 21:00:00",
         "numerosGanadores": [
             3,
             5,
@@ -2336,12 +2362,12 @@
         "premio3aciertos": "1.805,47",
         "ganadores2aciertos": 22911,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 777,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-22 21:00:00",
         "numerosGanadores": [
             5,
             15,
@@ -2362,12 +2388,12 @@
         "premio3aciertos": "4.338,26",
         "ganadores2aciertos": 10172,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 776,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-19 21:00:00",
         "numerosGanadores": [
             0,
             25,
@@ -2388,12 +2414,12 @@
         "premio3aciertos": "4.068,99",
         "ganadores2aciertos": 14419,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 775,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-17 21:00:00",
         "numerosGanadores": [
             1,
             16,
@@ -2414,12 +2440,12 @@
         "premio3aciertos": "3.726,91",
         "ganadores2aciertos": 13027,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 774,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-15 21:00:00",
         "numerosGanadores": [
             11,
             14,
@@ -2440,12 +2466,12 @@
         "premio3aciertos": "3.221,42",
         "ganadores2aciertos": 11343,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 773,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-12 21:00:00",
         "numerosGanadores": [
             12,
             16,
@@ -2466,12 +2492,12 @@
         "premio3aciertos": "2.527,10",
         "ganadores2aciertos": 15016,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 772,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-10 21:00:00",
         "numerosGanadores": [
             7,
             14,
@@ -2492,12 +2518,12 @@
         "premio3aciertos": "2.083,95",
         "ganadores2aciertos": 16863,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 771,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-08 21:00:00",
         "numerosGanadores": [
             3,
             17,
@@ -2518,12 +2544,12 @@
         "premio3aciertos": "3.246,65",
         "ganadores2aciertos": 31461,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 770,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-05 21:00:00",
         "numerosGanadores": [
             11,
             48,
@@ -2544,12 +2570,12 @@
         "premio3aciertos": "3.596,45",
         "ganadores2aciertos": 18354,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 769,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-03 21:00:00",
         "numerosGanadores": [
             1,
             7,
@@ -2570,12 +2596,12 @@
         "premio3aciertos": "3.291,59",
         "ganadores2aciertos": 13211,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 768,
-        "fecha": "2024-01-01",
+        "fecha": "2025-04-01 21:00:00",
         "numerosGanadores": [
             5,
             17,
@@ -2596,12 +2622,12 @@
         "premio3aciertos": "3.124,24",
         "ganadores2aciertos": 10875,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 767,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-29 21:00:00",
         "numerosGanadores": [
             3,
             16,
@@ -2622,12 +2648,12 @@
         "premio3aciertos": "2.402,70",
         "ganadores2aciertos": 13695,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 766,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-27 21:00:00",
         "numerosGanadores": [
             9,
             16,
@@ -2648,12 +2674,12 @@
         "premio3aciertos": "1.922,88",
         "ganadores2aciertos": 18523,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 765,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-25 21:00:00",
         "numerosGanadores": [
             19,
             25,
@@ -2674,12 +2700,12 @@
         "premio3aciertos": "3.599,76",
         "ganadores2aciertos": 7920,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 764,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-22 21:00:00",
         "numerosGanadores": [
             6,
             21,
@@ -2700,12 +2726,12 @@
         "premio3aciertos": "3.259,92",
         "ganadores2aciertos": 11898,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 763,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-20 21:00:00",
         "numerosGanadores": [
             11,
             12,
@@ -2726,12 +2752,12 @@
         "premio3aciertos": "1.618,54",
         "ganadores2aciertos": 15600,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 762,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-18 21:00:00",
         "numerosGanadores": [
             11,
             12,
@@ -2752,12 +2778,12 @@
         "premio3aciertos": "3.349,46",
         "ganadores2aciertos": 11226,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 761,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-15 21:00:00",
         "numerosGanadores": [
             3,
             11,
@@ -2778,12 +2804,12 @@
         "premio3aciertos": "2.027,96",
         "ganadores2aciertos": 18165,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 760,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-13 21:00:00",
         "numerosGanadores": [
             6,
             18,
@@ -2804,12 +2830,12 @@
         "premio3aciertos": "1.768,86",
         "ganadores2aciertos": 26705,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 759,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-11 21:00:00",
         "numerosGanadores": [
             8,
             16,
@@ -2830,12 +2856,12 @@
         "premio3aciertos": "3.114,67",
         "ganadores2aciertos": 13320,
         "premio2aciertos": "750,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 758,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-08 21:00:00",
         "numerosGanadores": [
             7,
             11,
@@ -2856,12 +2882,12 @@
         "premio3aciertos": "1.265,44",
         "ganadores2aciertos": 18616,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 757,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-06 21:00:00",
         "numerosGanadores": [
             1,
             3,
@@ -2882,12 +2908,12 @@
         "premio3aciertos": "1.530,06",
         "ganadores2aciertos": 14666,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 756,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-04 21:00:00",
         "numerosGanadores": [
             6,
             7,
@@ -2908,12 +2934,12 @@
         "premio3aciertos": "2.370,96",
         "ganadores2aciertos": 9105,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 755,
-        "fecha": "2024-01-01",
+        "fecha": "2025-03-01 21:00:00",
         "numerosGanadores": [
             5,
             22,
@@ -2934,12 +2960,12 @@
         "premio3aciertos": "1.938,77",
         "ganadores2aciertos": 23453,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 754,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-27 21:00:00",
         "numerosGanadores": [
             11,
             15,
@@ -2960,12 +2986,12 @@
         "premio3aciertos": "1.768,46",
         "ganadores2aciertos": 16073,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 753,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-25 21:00:00",
         "numerosGanadores": [
             6,
             30,
@@ -2986,12 +3012,12 @@
         "premio3aciertos": "2.830,47",
         "ganadores2aciertos": 26104,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 752,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-22 21:00:00",
         "numerosGanadores": [
             4,
             12,
@@ -3012,12 +3038,12 @@
         "premio3aciertos": "1.707,31",
         "ganadores2aciertos": 26281,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 751,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-20 21:00:00",
         "numerosGanadores": [
             16,
             19,
@@ -3038,12 +3064,12 @@
         "premio3aciertos": "2.591,62",
         "ganadores2aciertos": 14626,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 750,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-18 21:00:00",
         "numerosGanadores": [
             11,
             18,
@@ -3064,12 +3090,12 @@
         "premio3aciertos": "1.596,96",
         "ganadores2aciertos": 14617,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 749,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-15 21:00:00",
         "numerosGanadores": [
             5,
             11,
@@ -3090,12 +3116,12 @@
         "premio3aciertos": "1.335,01",
         "ganadores2aciertos": 16649,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 748,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-13 21:00:00",
         "numerosGanadores": [
             4,
             9,
@@ -3116,12 +3142,12 @@
         "premio3aciertos": "2.030,91",
         "ganadores2aciertos": 11796,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 747,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-11 21:00:00",
         "numerosGanadores": [
             3,
             5,
@@ -3142,12 +3168,12 @@
         "premio3aciertos": "1.193,50",
         "ganadores2aciertos": 15559,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 746,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-08 21:00:00",
         "numerosGanadores": [
             19,
             35,
@@ -3168,12 +3194,12 @@
         "premio3aciertos": "2.924,86",
         "ganadores2aciertos": 10986,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 745,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-06 21:00:00",
         "numerosGanadores": [
             2,
             4,
@@ -3194,12 +3220,12 @@
         "premio3aciertos": "1.564,19",
         "ganadores2aciertos": 25699,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 744,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-04 21:00:00",
         "numerosGanadores": [
             0,
             8,
@@ -3220,12 +3246,12 @@
         "premio3aciertos": "2.448,09",
         "ganadores2aciertos": 13867,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 743,
-        "fecha": "2024-01-01",
+        "fecha": "2025-02-01 21:00:00",
         "numerosGanadores": [
             0,
             18,
@@ -3246,12 +3272,12 @@
         "premio3aciertos": "1.666,07",
         "ganadores2aciertos": 16251,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 742,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-30 21:00:00",
         "numerosGanadores": [
             3,
             8,
@@ -3272,12 +3298,12 @@
         "premio3aciertos": "2.244,10",
         "ganadores2aciertos": 14918,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 741,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-28 21:00:00",
         "numerosGanadores": [
             3,
             8,
@@ -3298,12 +3324,12 @@
         "premio3aciertos": "1.966,58",
         "ganadores2aciertos": 13880,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 740,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-25 21:00:00",
         "numerosGanadores": [
             0,
             2,
@@ -3324,12 +3350,12 @@
         "premio3aciertos": "1.304,43",
         "ganadores2aciertos": 22086,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 739,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-23 21:00:00",
         "numerosGanadores": [
             4,
             30,
@@ -3350,12 +3376,12 @@
         "premio3aciertos": "3.167,24",
         "ganadores2aciertos": 9205,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 738,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-21 21:00:00",
         "numerosGanadores": [
             2,
             17,
@@ -3376,12 +3402,12 @@
         "premio3aciertos": "1.951,26",
         "ganadores2aciertos": 17882,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 737,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-18 21:00:00",
         "numerosGanadores": [
             3,
             16,
@@ -3402,12 +3428,12 @@
         "premio3aciertos": "2.997,05",
         "ganadores2aciertos": 11405,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 736,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-16 21:00:00",
         "numerosGanadores": [
             0,
             1,
@@ -3428,12 +3454,12 @@
         "premio3aciertos": "1.598,62",
         "ganadores2aciertos": 25540,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 735,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-14 21:00:00",
         "numerosGanadores": [
             7,
             12,
@@ -3454,12 +3480,12 @@
         "premio3aciertos": "1.531,10",
         "ganadores2aciertos": 19334,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 734,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-11 21:00:00",
         "numerosGanadores": [
             0,
             28,
@@ -3480,12 +3506,12 @@
         "premio3aciertos": "2.864,26",
         "ganadores2aciertos": 11218,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 733,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-09 21:00:00",
         "numerosGanadores": [
             3,
             19,
@@ -3506,12 +3532,12 @@
         "premio3aciertos": "1.894,76",
         "ganadores2aciertos": 12448,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 732,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-07 21:00:00",
         "numerosGanadores": [
             13,
             15,
@@ -3532,12 +3558,12 @@
         "premio3aciertos": "1.870,79",
         "ganadores2aciertos": 18149,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 731,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-04 21:00:00",
         "numerosGanadores": [
             2,
             3,
@@ -3558,12 +3584,12 @@
         "premio3aciertos": "1.328,66",
         "ganadores2aciertos": 18224,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 730,
-        "fecha": "2024-01-01",
+        "fecha": "2025-01-02 21:00:00",
         "numerosGanadores": [
             5,
             14,
@@ -3584,12 +3610,12 @@
         "premio3aciertos": "2.239,60",
         "ganadores2aciertos": 9157,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 729,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-31 21:00:00",
         "numerosGanadores": [
             7,
             23,
@@ -3610,12 +3636,12 @@
         "premio3aciertos": "1.646,41",
         "ganadores2aciertos": 13714,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 728,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-28 21:00:00",
         "numerosGanadores": [
             6,
             11,
@@ -3636,12 +3662,12 @@
         "premio3aciertos": "1.680,11",
         "ganadores2aciertos": 28895,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 727,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-26 21:00:00",
         "numerosGanadores": [
             2,
             15,
@@ -3662,12 +3688,12 @@
         "premio3aciertos": "2.224,85",
         "ganadores2aciertos": 14711,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 726,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-24 21:00:00",
         "numerosGanadores": [
             7,
             14,
@@ -3688,12 +3714,12 @@
         "premio3aciertos": "2.085,16",
         "ganadores2aciertos": 11192,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 725,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-21 21:00:00",
         "numerosGanadores": [
             13,
             31,
@@ -3714,12 +3740,12 @@
         "premio3aciertos": "2.581,78",
         "ganadores2aciertos": 11963,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 724,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-19 21:00:00",
         "numerosGanadores": [
             1,
             11,
@@ -3740,12 +3766,12 @@
         "premio3aciertos": "1.653,79",
         "ganadores2aciertos": 14457,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 723,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-17 21:00:00",
         "numerosGanadores": [
             18,
             49,
@@ -3766,12 +3792,12 @@
         "premio3aciertos": "2.767,66",
         "ganadores2aciertos": 15309,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 722,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-14 21:00:00",
         "numerosGanadores": [
             9,
             18,
@@ -3792,12 +3818,12 @@
         "premio3aciertos": "1.550,84",
         "ganadores2aciertos": 18640,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 721,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-12 21:00:00",
         "numerosGanadores": [
             6,
             40,
@@ -3818,12 +3844,12 @@
         "premio3aciertos": "3.069,21",
         "ganadores2aciertos": 7885,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 720,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-10 21:00:00",
         "numerosGanadores": [
             4,
             5,
@@ -3844,12 +3870,12 @@
         "premio3aciertos": "919,86",
         "ganadores2aciertos": 18130,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 719,
-        "fecha": "2024-01-01",
+        "fecha": "2024-12-07 21:00:00",
         "numerosGanadores": [
             0,
             1,
@@ -3870,12 +3896,12 @@
         "premio3aciertos": "3.749,04",
         "ganadores2aciertos": 42052,
         "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 718,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-30 21:00:00",
         "numerosGanadores": [
             5,
             7,
@@ -3896,12 +3922,12 @@
         "premio3aciertos": "1.458,00",
         "ganadores2aciertos": 18094,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 717,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-28 21:00:00",
         "numerosGanadores": [
             13,
             18,
@@ -3922,12 +3948,12 @@
         "premio3aciertos": "1.679,15",
         "ganadores2aciertos": 24925,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 716,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-26 21:00:00",
         "numerosGanadores": [
             8,
             9,
@@ -3948,12 +3974,12 @@
         "premio3aciertos": "1.979,99",
         "ganadores2aciertos": 18376,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 715,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-23 21:00:00",
         "numerosGanadores": [
             7,
             15,
@@ -3974,12 +4000,12 @@
         "premio3aciertos": "1.604,71",
         "ganadores2aciertos": 16697,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 714,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-21 21:00:00",
         "numerosGanadores": [
             2,
             8,
@@ -4000,12 +4026,12 @@
         "premio3aciertos": "884,34",
         "ganadores2aciertos": 28838,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 713,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-19 21:00:00",
         "numerosGanadores": [
             0,
             11,
@@ -4026,12 +4052,12 @@
         "premio3aciertos": "1.981,31",
         "ganadores2aciertos": 13357,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 712,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-16 21:00:00",
         "numerosGanadores": [
             8,
             22,
@@ -4052,12 +4078,12 @@
         "premio3aciertos": "2.186,85",
         "ganadores2aciertos": 22247,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 711,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-14 21:00:00",
         "numerosGanadores": [
             1,
             16,
@@ -4078,12 +4104,12 @@
         "premio3aciertos": "2.197,51",
         "ganadores2aciertos": 16463,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 710,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-12 21:00:00",
         "numerosGanadores": [
             6,
             9,
@@ -4104,12 +4130,12 @@
         "premio3aciertos": "1.666,54",
         "ganadores2aciertos": 14484,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 709,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-09 21:00:00",
         "numerosGanadores": [
             0,
             19,
@@ -4130,12 +4156,12 @@
         "premio3aciertos": "2.264,83",
         "ganadores2aciertos": 15350,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 708,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-07 21:00:00",
         "numerosGanadores": [
             12,
             17,
@@ -4156,12 +4182,12 @@
         "premio3aciertos": "1.326,46",
         "ganadores2aciertos": 37160,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 707,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-05 21:00:00",
         "numerosGanadores": [
             5,
             9,
@@ -4182,12 +4208,12 @@
         "premio3aciertos": "2.037,13",
         "ganadores2aciertos": 22154,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 706,
-        "fecha": "2024-01-01",
+        "fecha": "2024-11-02 21:00:00",
         "numerosGanadores": [
             6,
             15,
@@ -4208,12 +4234,12 @@
         "premio3aciertos": "2.196,99",
         "ganadores2aciertos": 17130,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 705,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-31 21:00:00",
         "numerosGanadores": [
             0,
             16,
@@ -4234,12 +4260,12 @@
         "premio3aciertos": "3.194,74",
         "ganadores2aciertos": 9100,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 704,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-29 21:00:00",
         "numerosGanadores": [
             19,
             21,
@@ -4260,12 +4286,12 @@
         "premio3aciertos": "2.422,60",
         "ganadores2aciertos": 19348,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 703,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-26 21:00:00",
         "numerosGanadores": [
             6,
             21,
@@ -4286,12 +4312,12 @@
         "premio3aciertos": "2.537,68",
         "ganadores2aciertos": 14397,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 702,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-24 21:00:00",
         "numerosGanadores": [
             10,
             12,
@@ -4312,12 +4338,12 @@
         "premio3aciertos": "1.764,89",
         "ganadores2aciertos": 12090,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 701,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-22 21:00:00",
         "numerosGanadores": [
             12,
             20,
@@ -4338,12 +4364,12 @@
         "premio3aciertos": "2.330,27",
         "ganadores2aciertos": 9838,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 700,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-19 21:00:00",
         "numerosGanadores": [
             6,
             9,
@@ -4364,12 +4390,12 @@
         "premio3aciertos": "1.699,70",
         "ganadores2aciertos": 15315,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 699,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-17 21:00:00",
         "numerosGanadores": [
             8,
             19,
@@ -4390,12 +4416,12 @@
         "premio3aciertos": "1.256,16",
         "ganadores2aciertos": 15353,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 698,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-15 21:00:00",
         "numerosGanadores": [
             17,
             18,
@@ -4416,12 +4442,12 @@
         "premio3aciertos": "1.685,07",
         "ganadores2aciertos": 14770,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 697,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-12 21:00:00",
         "numerosGanadores": [
             2,
             17,
@@ -4442,12 +4468,12 @@
         "premio3aciertos": "1.659,98",
         "ganadores2aciertos": 20566,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 696,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-10 21:00:00",
         "numerosGanadores": [
             8,
             21,
@@ -4468,12 +4494,12 @@
         "premio3aciertos": "2.061,02",
         "ganadores2aciertos": 12275,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 695,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-08 21:00:00",
         "numerosGanadores": [
             23,
             24,
@@ -4494,12 +4520,12 @@
         "premio3aciertos": "1.952,54",
         "ganadores2aciertos": 13717,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 694,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-05 21:00:00",
         "numerosGanadores": [
             18,
             24,
@@ -4520,12 +4546,12 @@
         "premio3aciertos": "2.307,10",
         "ganadores2aciertos": 23760,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 693,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-03 21:00:00",
         "numerosGanadores": [
             15,
             20,
@@ -4546,12 +4572,12 @@
         "premio3aciertos": "2.525,99",
         "ganadores2aciertos": 15411,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 692,
-        "fecha": "2024-01-01",
+        "fecha": "2024-10-01 21:00:00",
         "numerosGanadores": [
             7,
             18,
@@ -4572,12 +4598,12 @@
         "premio3aciertos": "1.726,67",
         "ganadores2aciertos": 14076,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 691,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-28 21:00:00",
         "numerosGanadores": [
             5,
             18,
@@ -4598,12 +4624,12 @@
         "premio3aciertos": "1.863,99",
         "ganadores2aciertos": 25308,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 690,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-26 21:00:00",
         "numerosGanadores": [
             3,
             7,
@@ -4624,12 +4650,12 @@
         "premio3aciertos": "1.709,29",
         "ganadores2aciertos": 18470,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 689,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-24 21:00:00",
         "numerosGanadores": [
             5,
             20,
@@ -4650,12 +4676,12 @@
         "premio3aciertos": "1.731,20",
         "ganadores2aciertos": 14878,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 688,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-21 21:00:00",
         "numerosGanadores": [
             20,
             26,
@@ -4676,12 +4702,12 @@
         "premio3aciertos": "2.947,82",
         "ganadores2aciertos": 11501,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 687,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-19 21:00:00",
         "numerosGanadores": [
             7,
             8,
@@ -4702,12 +4728,12 @@
         "premio3aciertos": "2.228,92",
         "ganadores2aciertos": 16150,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 686,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-17 21:00:00",
         "numerosGanadores": [
             7,
             32,
@@ -4728,12 +4754,12 @@
         "premio3aciertos": "2.137,91",
         "ganadores2aciertos": 36361,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 685,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-14 21:00:00",
         "numerosGanadores": [
             11,
             15,
@@ -4754,12 +4780,12 @@
         "premio3aciertos": "1.221,29",
         "ganadores2aciertos": 37948,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 682,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-07 21:00:00",
         "numerosGanadores": [
             0,
             4,
@@ -4780,12 +4806,12 @@
         "premio3aciertos": "2.477,30",
         "ganadores2aciertos": 14834,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 681,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-05 21:00:00",
         "numerosGanadores": [
             0,
             16,
@@ -4806,12 +4832,12 @@
         "premio3aciertos": "2.469,51",
         "ganadores2aciertos": 15843,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 680,
-        "fecha": "2024-01-01",
+        "fecha": "2024-09-03 21:00:00",
         "numerosGanadores": [
             5,
             31,
@@ -4832,12 +4858,12 @@
         "premio3aciertos": "2.626,03",
         "ganadores2aciertos": 43743,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 679,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-31 21:00:00",
         "numerosGanadores": [
             20,
             24,
@@ -4858,12 +4884,12 @@
         "premio3aciertos": "2.613,71",
         "ganadores2aciertos": 33756,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 678,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-29 21:00:00",
         "numerosGanadores": [
             33,
             39,
@@ -4884,12 +4910,12 @@
         "premio3aciertos": "3.181,48",
         "ganadores2aciertos": 17455,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 677,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-27 21:00:00",
         "numerosGanadores": [
             0,
             11,
@@ -4910,12 +4936,12 @@
         "premio3aciertos": "1.356,24",
         "ganadores2aciertos": 21543,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 676,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-24 21:00:00",
         "numerosGanadores": [
             0,
             12,
@@ -4936,12 +4962,12 @@
         "premio3aciertos": "1.887,22",
         "ganadores2aciertos": 14102,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 675,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-22 21:00:00",
         "numerosGanadores": [
             25,
             29,
@@ -4962,12 +4988,12 @@
         "premio3aciertos": "2.159,36",
         "ganadores2aciertos": 11170,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 674,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-20 21:00:00",
         "numerosGanadores": [
             3,
             26,
@@ -4988,12 +5014,12 @@
         "premio3aciertos": "2.805,88",
         "ganadores2aciertos": 14917,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 673,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-17 21:00:00",
         "numerosGanadores": [
             1,
             4,
@@ -5014,12 +5040,12 @@
         "premio3aciertos": "1.787,48",
         "ganadores2aciertos": 15903,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 672,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-15 21:00:00",
         "numerosGanadores": [
             11,
             18,
@@ -5040,12 +5066,12 @@
         "premio3aciertos": "1.762,63",
         "ganadores2aciertos": 19459,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 671,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-13 21:00:00",
         "numerosGanadores": [
             14,
             17,
@@ -5066,12 +5092,12 @@
         "premio3aciertos": "1.568,74",
         "ganadores2aciertos": 15662,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 670,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-10 21:00:00",
         "numerosGanadores": [
             8,
             10,
@@ -5092,12 +5118,12 @@
         "premio3aciertos": "1.288,06",
         "ganadores2aciertos": 18361,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 669,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-08 21:00:00",
         "numerosGanadores": [
             8,
             24,
@@ -5118,12 +5144,12 @@
         "premio3aciertos": "1.688,31",
         "ganadores2aciertos": 17149,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 668,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-06 21:00:00",
         "numerosGanadores": [
             0,
             4,
@@ -5144,12 +5170,12 @@
         "premio3aciertos": "1.556,46",
         "ganadores2aciertos": 40508,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 667,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-03 21:00:00",
         "numerosGanadores": [
             6,
             19,
@@ -5170,12 +5196,12 @@
         "premio3aciertos": "1.816,96",
         "ganadores2aciertos": 26670,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 666,
-        "fecha": "2024-01-01",
+        "fecha": "2024-08-01 21:00:00",
         "numerosGanadores": [
             29,
             42,
@@ -5196,12 +5222,12 @@
         "premio3aciertos": "2.612,62",
         "ganadores2aciertos": 12143,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 665,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-30 21:00:00",
         "numerosGanadores": [
             0,
             2,
@@ -5222,12 +5248,12 @@
         "premio3aciertos": "1.930,33",
         "ganadores2aciertos": 11313,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 664,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-27 21:00:00",
         "numerosGanadores": [
             3,
             8,
@@ -5248,12 +5274,12 @@
         "premio3aciertos": "1.528,25",
         "ganadores2aciertos": 14507,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 663,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-25 21:00:00",
         "numerosGanadores": [
             6,
             11,
@@ -5274,12 +5300,12 @@
         "premio3aciertos": "2.164,39",
         "ganadores2aciertos": 13253,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 662,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-23 21:00:00",
         "numerosGanadores": [
             4,
             14,
@@ -5300,12 +5326,12 @@
         "premio3aciertos": "2.090,22",
         "ganadores2aciertos": 31055,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 661,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-20 21:00:00",
         "numerosGanadores": [
             16,
             34,
@@ -5326,12 +5352,12 @@
         "premio3aciertos": "2.650,29",
         "ganadores2aciertos": 17014,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 660,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-18 21:00:00",
         "numerosGanadores": [
             2,
             5,
@@ -5352,12 +5378,12 @@
         "premio3aciertos": "1.829,67",
         "ganadores2aciertos": 15137,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 659,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-16 21:00:00",
         "numerosGanadores": [
             0,
             19,
@@ -5378,12 +5404,12 @@
         "premio3aciertos": "2.443,90",
         "ganadores2aciertos": 8880,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 658,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-13 21:00:00",
         "numerosGanadores": [
             9,
             19,
@@ -5404,12 +5430,12 @@
         "premio3aciertos": "1.024,75",
         "ganadores2aciertos": 17184,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 657,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-11 21:00:00",
         "numerosGanadores": [
             6,
             10,
@@ -5430,12 +5456,12 @@
         "premio3aciertos": "1.311,81",
         "ganadores2aciertos": 14771,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 656,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-06 21:00:00",
         "numerosGanadores": [
             4,
             19,
@@ -5456,12 +5482,12 @@
         "premio3aciertos": "2.096,30",
         "ganadores2aciertos": 12666,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 655,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-04 21:00:00",
         "numerosGanadores": [
             0,
             12,
@@ -5482,12 +5508,12 @@
         "premio3aciertos": "1.773,38",
         "ganadores2aciertos": 17996,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 654,
-        "fecha": "2024-01-01",
+        "fecha": "2024-07-02 21:00:00",
         "numerosGanadores": [
             12,
             13,
@@ -5508,12 +5534,12 @@
         "premio3aciertos": "1.725,81",
         "ganadores2aciertos": 13176,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 653,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-29 21:00:00",
         "numerosGanadores": [
             5,
             15,
@@ -5534,12 +5560,12 @@
         "premio3aciertos": "2.240,24",
         "ganadores2aciertos": 19880,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 652,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-27 21:00:00",
         "numerosGanadores": [
             15,
             16,
@@ -5560,12 +5586,12 @@
         "premio3aciertos": "1.867,29",
         "ganadores2aciertos": 14518,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 651,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-25 21:00:00",
         "numerosGanadores": [
             11,
             15,
@@ -5586,12 +5612,12 @@
         "premio3aciertos": "2.670,20",
         "ganadores2aciertos": 8341,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 650,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-22 21:00:00",
         "numerosGanadores": [
             1,
             5,
@@ -5612,12 +5638,12 @@
         "premio3aciertos": "929,64",
         "ganadores2aciertos": 18059,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 649,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-18 21:00:00",
         "numerosGanadores": [
             1,
             7,
@@ -5638,12 +5664,12 @@
         "premio3aciertos": "2.372,92",
         "ganadores2aciertos": 9782,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 648,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-15 21:00:00",
         "numerosGanadores": [
             5,
             11,
@@ -5664,12 +5690,12 @@
         "premio3aciertos": "1.440,27",
         "ganadores2aciertos": 19620,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 647,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-13 21:00:00",
         "numerosGanadores": [
             4,
             20,
@@ -5690,12 +5716,12 @@
         "premio3aciertos": "2.641,44",
         "ganadores2aciertos": 8429,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 646,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-11 21:00:00",
         "numerosGanadores": [
             3,
             9,
@@ -5716,12 +5742,12 @@
         "premio3aciertos": "1.927,38",
         "ganadores2aciertos": 11029,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 645,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-08 21:00:00",
         "numerosGanadores": [
             8,
             29,
@@ -5742,12 +5768,12 @@
         "premio3aciertos": "2.113,00",
         "ganadores2aciertos": 11023,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 644,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-06 21:00:00",
         "numerosGanadores": [
             4,
             11,
@@ -5768,12 +5794,12 @@
         "premio3aciertos": "1.382,24",
         "ganadores2aciertos": 18780,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 643,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-04 21:00:00",
         "numerosGanadores": [
             18,
             23,
@@ -5794,12 +5820,12 @@
         "premio3aciertos": "2.428,50",
         "ganadores2aciertos": 10043,
         "premio2aciertos": "500,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 642,
-        "fecha": "2024-01-01",
+        "fecha": "2024-06-01 21:00:00",
         "numerosGanadores": [
             6,
             29,
@@ -5820,12 +5846,12 @@
         "premio3aciertos": "1.639,86",
         "ganadores2aciertos": 22419,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 641,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-30 21:00:00",
         "numerosGanadores": [
             25,
             28,
@@ -5846,12 +5872,12 @@
         "premio3aciertos": "1.623,98",
         "ganadores2aciertos": 14972,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 640,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-28 21:00:00",
         "numerosGanadores": [
             11,
             13,
@@ -5872,12 +5898,12 @@
         "premio3aciertos": "804,95",
         "ganadores2aciertos": 19558,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 639,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-23 21:00:00",
         "numerosGanadores": [
             17,
             18,
@@ -5898,12 +5924,12 @@
         "premio3aciertos": "1.160,54",
         "ganadores2aciertos": 24334,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 638,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-21 21:00:00",
         "numerosGanadores": [
             5,
             17,
@@ -5924,12 +5950,12 @@
         "premio3aciertos": "936,98",
         "ganadores2aciertos": 21378,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 637,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-18 21:00:00",
         "numerosGanadores": [
             5,
             18,
@@ -5950,12 +5976,12 @@
         "premio3aciertos": "889,90",
         "ganadores2aciertos": 17012,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 636,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-16 21:00:00",
         "numerosGanadores": [
             0,
             2,
@@ -5976,12 +6002,12 @@
         "premio3aciertos": "746,47",
         "ganadores2aciertos": 15742,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 635,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-14 21:00:00",
         "numerosGanadores": [
             1,
             2,
@@ -6002,12 +6028,12 @@
         "premio3aciertos": "1.054,94",
         "ganadores2aciertos": 13314,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 634,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-11 21:00:00",
         "numerosGanadores": [
             0,
             3,
@@ -6028,12 +6054,12 @@
         "premio3aciertos": "663,11",
         "ganadores2aciertos": 18502,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 633,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-09 21:00:00",
         "numerosGanadores": [
             13,
             37,
@@ -6054,12 +6080,12 @@
         "premio3aciertos": "1.705,10",
         "ganadores2aciertos": 12428,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 632,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-07 21:00:00",
         "numerosGanadores": [
             0,
             16,
@@ -6080,12 +6106,12 @@
         "premio3aciertos": "1.088,42",
         "ganadores2aciertos": 12701,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 631,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-04 21:00:00",
         "numerosGanadores": [
             12,
             15,
@@ -6106,12 +6132,12 @@
         "premio3aciertos": "951,17",
         "ganadores2aciertos": 16821,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 630,
-        "fecha": "2024-01-01",
+        "fecha": "2024-05-02 21:00:00",
         "numerosGanadores": [
             20,
             25,
@@ -6132,12 +6158,12 @@
         "premio3aciertos": "1.210,61",
         "ganadores2aciertos": 11436,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 629,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-30 21:00:00",
         "numerosGanadores": [
             0,
             5,
@@ -6158,12 +6184,12 @@
         "premio3aciertos": "1.397,28",
         "ganadores2aciertos": 18835,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 628,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-27 21:00:00",
         "numerosGanadores": [
             4,
             9,
@@ -6184,12 +6210,12 @@
         "premio3aciertos": "1.243,16",
         "ganadores2aciertos": 16272,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 627,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-25 21:00:00",
         "numerosGanadores": [
             6,
             10,
@@ -6210,12 +6236,12 @@
         "premio3aciertos": "1.247,74",
         "ganadores2aciertos": 11246,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 626,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-23 21:00:00",
         "numerosGanadores": [
             2,
             4,
@@ -6236,12 +6262,12 @@
         "premio3aciertos": "1.033,40",
         "ganadores2aciertos": 14130,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 625,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-20 21:00:00",
         "numerosGanadores": [
             6,
             8,
@@ -6262,12 +6288,12 @@
         "premio3aciertos": "957,41",
         "ganadores2aciertos": 19500,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 624,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-18 21:00:00",
         "numerosGanadores": [
             22,
             40,
@@ -6288,12 +6314,12 @@
         "premio3aciertos": "1.512,12",
         "ganadores2aciertos": 10609,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 623,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-16 21:00:00",
         "numerosGanadores": [
             1,
             7,
@@ -6314,12 +6340,12 @@
         "premio3aciertos": "820,35",
         "ganadores2aciertos": 15064,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 622,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-13 21:00:00",
         "numerosGanadores": [
             21,
             32,
@@ -6340,12 +6366,12 @@
         "premio3aciertos": "875,65",
         "ganadores2aciertos": 16804,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 621,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-11 21:00:00",
         "numerosGanadores": [
             0,
             14,
@@ -6366,12 +6392,12 @@
         "premio3aciertos": "921,78",
         "ganadores2aciertos": 18908,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 620,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-09 21:00:00",
         "numerosGanadores": [
             5,
             14,
@@ -6392,12 +6418,12 @@
         "premio3aciertos": "1.177,57",
         "ganadores2aciertos": 14785,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 619,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-06 21:00:00",
         "numerosGanadores": [
             19,
             34,
@@ -6418,12 +6444,12 @@
         "premio3aciertos": "1.319,04",
         "ganadores2aciertos": 22504,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 618,
-        "fecha": "2024-01-01",
+        "fecha": "2024-04-04 21:00:00",
         "numerosGanadores": [
             5,
             23,
@@ -6444,12 +6470,12 @@
         "premio3aciertos": "1.355,52",
         "ganadores2aciertos": 18100,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 617,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-30 21:00:00",
         "numerosGanadores": [
             11,
             12,
@@ -6470,12 +6496,12 @@
         "premio3aciertos": "1.520,17",
         "ganadores2aciertos": 12031,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 616,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-28 21:00:00",
         "numerosGanadores": [
             1,
             10,
@@ -6496,12 +6522,12 @@
         "premio3aciertos": "903,10",
         "ganadores2aciertos": 25058,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 615,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-26 21:00:00",
         "numerosGanadores": [
             4,
             37,
@@ -6522,12 +6548,12 @@
         "premio3aciertos": "1.868,56",
         "ganadores2aciertos": 13013,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 614,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-23 21:00:00",
         "numerosGanadores": [
             4,
             21,
@@ -6548,12 +6574,12 @@
         "premio3aciertos": "1.516,21",
         "ganadores2aciertos": 13156,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 613,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-21 21:00:00",
         "numerosGanadores": [
             1,
             12,
@@ -6574,12 +6600,12 @@
         "premio3aciertos": "952,69",
         "ganadores2aciertos": 16886,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 612,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-19 21:00:00",
         "numerosGanadores": [
             17,
             20,
@@ -6600,12 +6626,12 @@
         "premio3aciertos": "1.047,02",
         "ganadores2aciertos": 35327,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 611,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-16 21:00:00",
         "numerosGanadores": [
             4,
             8,
@@ -6626,12 +6652,12 @@
         "premio3aciertos": "1.180,13",
         "ganadores2aciertos": 23162,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 610,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-14 21:00:00",
         "numerosGanadores": [
             0,
             2,
@@ -6652,12 +6678,12 @@
         "premio3aciertos": "1.047,62",
         "ganadores2aciertos": 17527,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 609,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-12 21:00:00",
         "numerosGanadores": [
             8,
             11,
@@ -6678,12 +6704,12 @@
         "premio3aciertos": "1.411,90",
         "ganadores2aciertos": 11936,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 608,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-09 21:00:00",
         "numerosGanadores": [
             8,
             14,
@@ -6704,12 +6730,12 @@
         "premio3aciertos": "871,33",
         "ganadores2aciertos": 23963,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 607,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-07 21:00:00",
         "numerosGanadores": [
             5,
             9,
@@ -6730,12 +6756,12 @@
         "premio3aciertos": "1.241,99",
         "ganadores2aciertos": 13608,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 606,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-05 21:00:00",
         "numerosGanadores": [
             13,
             20,
@@ -6756,12 +6782,12 @@
         "premio3aciertos": "1.218,46",
         "ganadores2aciertos": 21951,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 605,
-        "fecha": "2024-01-01",
+        "fecha": "2024-03-02 21:00:00",
         "numerosGanadores": [
             18,
             22,
@@ -6782,12 +6808,12 @@
         "premio3aciertos": "1.420,18",
         "ganadores2aciertos": 15979,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 604,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-29 21:00:00",
         "numerosGanadores": [
             8,
             23,
@@ -6808,12 +6834,12 @@
         "premio3aciertos": "1.018,13",
         "ganadores2aciertos": 12186,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 603,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-27 21:00:00",
         "numerosGanadores": [
             1,
             2,
@@ -6834,12 +6860,12 @@
         "premio3aciertos": "1.018,84",
         "ganadores2aciertos": 13418,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 602,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-24 21:00:00",
         "numerosGanadores": [
             9,
             31,
@@ -6860,12 +6886,12 @@
         "premio3aciertos": "1.593,49",
         "ganadores2aciertos": 13670,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 601,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-22 21:00:00",
         "numerosGanadores": [
             3,
             18,
@@ -6886,12 +6912,12 @@
         "premio3aciertos": "1.262,45",
         "ganadores2aciertos": 32467,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 600,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-20 21:00:00",
         "numerosGanadores": [
             2,
             12,
@@ -6912,12 +6938,12 @@
         "premio3aciertos": "1.552,24",
         "ganadores2aciertos": 19838,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 599,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-17 21:00:00",
         "numerosGanadores": [
             14,
             22,
@@ -6938,12 +6964,12 @@
         "premio3aciertos": "1.093,17",
         "ganadores2aciertos": 19196,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 598,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-15 21:00:00",
         "numerosGanadores": [
             8,
             23,
@@ -6964,12 +6990,12 @@
         "premio3aciertos": "1.157,32",
         "ganadores2aciertos": 12202,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 597,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-13 21:00:00",
         "numerosGanadores": [
             5,
             8,
@@ -6990,12 +7016,12 @@
         "premio3aciertos": "1.390,50",
         "ganadores2aciertos": 9367,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 596,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-10 21:00:00",
         "numerosGanadores": [
             10,
             17,
@@ -7016,12 +7042,12 @@
         "premio3aciertos": "1.284,55",
         "ganadores2aciertos": 21029,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 595,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-08 21:00:00",
         "numerosGanadores": [
             16,
             18,
@@ -7042,12 +7068,12 @@
         "premio3aciertos": "1.050,30",
         "ganadores2aciertos": 16340,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 594,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-06 21:00:00",
         "numerosGanadores": [
             4,
             8,
@@ -7068,12 +7094,12 @@
         "premio3aciertos": "1.075,91",
         "ganadores2aciertos": 12372,
         "premio2aciertos": "300,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 593,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-03 21:00:00",
         "numerosGanadores": [
             8,
             27,
@@ -7094,12 +7120,12 @@
         "premio3aciertos": "671,87",
         "ganadores2aciertos": 16408,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 592,
-        "fecha": "2024-01-01",
+        "fecha": "2024-02-01 21:00:00",
         "numerosGanadores": [
             13,
             16,
@@ -7120,12 +7146,12 @@
         "premio3aciertos": "857,20",
         "ganadores2aciertos": 13750,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 591,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-30 21:00:00",
         "numerosGanadores": [
             6,
             12,
@@ -7146,12 +7172,12 @@
         "premio3aciertos": "745,70",
         "ganadores2aciertos": 20188,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 590,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-27 21:00:00",
         "numerosGanadores": [
             2,
             6,
@@ -7172,12 +7198,12 @@
         "premio3aciertos": "590,71",
         "ganadores2aciertos": 18530,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 589,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-25 21:00:00",
         "numerosGanadores": [
             25,
             31,
@@ -7198,12 +7224,12 @@
         "premio3aciertos": "1.014,92",
         "ganadores2aciertos": 19045,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 588,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-23 21:00:00",
         "numerosGanadores": [
             19,
             21,
@@ -7224,12 +7250,12 @@
         "premio3aciertos": "789,64",
         "ganadores2aciertos": 18229,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 587,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-20 21:00:00",
         "numerosGanadores": [
             0,
             32,
@@ -7250,12 +7276,12 @@
         "premio3aciertos": "930,61",
         "ganadores2aciertos": 13754,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 586,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-18 21:00:00",
         "numerosGanadores": [
             7,
             11,
@@ -7276,12 +7302,12 @@
         "premio3aciertos": "818,49",
         "ganadores2aciertos": 13471,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 585,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-16 21:00:00",
         "numerosGanadores": [
             0,
             15,
@@ -7302,12 +7328,12 @@
         "premio3aciertos": "1.034,18",
         "ganadores2aciertos": 11086,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 584,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-13 21:00:00",
         "numerosGanadores": [
             7,
             9,
@@ -7328,12 +7354,12 @@
         "premio3aciertos": "470,34",
         "ganadores2aciertos": 26975,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 583,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-11 21:00:00",
         "numerosGanadores": [
             24,
             25,
@@ -7354,12 +7380,12 @@
         "premio3aciertos": "831,05",
         "ganadores2aciertos": 12787,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 582,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-09 21:00:00",
         "numerosGanadores": [
             4,
             19,
@@ -7380,12 +7406,12 @@
         "premio3aciertos": "712,09",
         "ganadores2aciertos": 14278,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 581,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-06 21:00:00",
         "numerosGanadores": [
             3,
             11,
@@ -7406,12 +7432,12 @@
         "premio3aciertos": "515,61",
         "ganadores2aciertos": 20740,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 580,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-04 21:00:00",
         "numerosGanadores": [
             6,
             8,
@@ -7432,12 +7458,12 @@
         "premio3aciertos": "700,16",
         "ganadores2aciertos": 15841,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 579,
-        "fecha": "2024-01-01",
+        "fecha": "2024-01-02 21:00:00",
         "numerosGanadores": [
             9,
             11,
@@ -7458,12 +7484,12 @@
         "premio3aciertos": "1.066,11",
         "ganadores2aciertos": 11277,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 578,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-30 21:00:00",
         "numerosGanadores": [
             4,
             20,
@@ -7484,12 +7510,12 @@
         "premio3aciertos": "940,11",
         "ganadores2aciertos": 25497,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 577,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-28 21:00:00",
         "numerosGanadores": [
             6,
             7,
@@ -7510,12 +7536,12 @@
         "premio3aciertos": "675,13",
         "ganadores2aciertos": 22386,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 576,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-26 21:00:00",
         "numerosGanadores": [
             22,
             26,
@@ -7536,12 +7562,12 @@
         "premio3aciertos": "690,53",
         "ganadores2aciertos": 16248,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 575,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-23 21:00:00",
         "numerosGanadores": [
             1,
             6,
@@ -7562,12 +7588,12 @@
         "premio3aciertos": "567,57",
         "ganadores2aciertos": 31955,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 574,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-21 21:00:00",
         "numerosGanadores": [
             7,
             18,
@@ -7588,12 +7614,12 @@
         "premio3aciertos": "747,98",
         "ganadores2aciertos": 18798,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 573,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-19 21:00:00",
         "numerosGanadores": [
             15,
             17,
@@ -7614,12 +7640,12 @@
         "premio3aciertos": "642,69",
         "ganadores2aciertos": 53194,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 572,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-16 21:00:00",
         "numerosGanadores": [
             26,
             45,
@@ -7640,12 +7666,12 @@
         "premio3aciertos": "1.004,13",
         "ganadores2aciertos": 23514,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 571,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-14 21:00:00",
         "numerosGanadores": [
             19,
             23,
@@ -7666,12 +7692,12 @@
         "premio3aciertos": "849,05",
         "ganadores2aciertos": 20513,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 570,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-12 21:00:00",
         "numerosGanadores": [
             3,
             5,
@@ -7692,12 +7718,12 @@
         "premio3aciertos": "604,22",
         "ganadores2aciertos": 19034,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 569,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-09 21:00:00",
         "numerosGanadores": [
             3,
             7,
@@ -7718,12 +7744,12 @@
         "premio3aciertos": "773,38",
         "ganadores2aciertos": 13334,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 568,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-07 21:00:00",
         "numerosGanadores": [
             7,
             33,
@@ -7744,12 +7770,12 @@
         "premio3aciertos": "788,56",
         "ganadores2aciertos": 13311,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 567,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-05 21:00:00",
         "numerosGanadores": [
             0,
             22,
@@ -7770,12 +7796,12 @@
         "premio3aciertos": "762,22",
         "ganadores2aciertos": 18469,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 566,
-        "fecha": "2024-01-01",
+        "fecha": "2023-12-02 21:00:00",
         "numerosGanadores": [
             0,
             1,
@@ -7796,12 +7822,12 @@
         "premio3aciertos": "644,19",
         "ganadores2aciertos": 16470,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 565,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-30 21:00:00",
         "numerosGanadores": [
             11,
             14,
@@ -7822,12 +7848,12 @@
         "premio3aciertos": "517,94",
         "ganadores2aciertos": 15468,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 564,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-28 21:00:00",
         "numerosGanadores": [
             7,
             23,
@@ -7848,12 +7874,12 @@
         "premio3aciertos": "896,04",
         "ganadores2aciertos": 10763,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 563,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-25 21:00:00",
         "numerosGanadores": [
             5,
             13,
@@ -7874,12 +7900,12 @@
         "premio3aciertos": "603,07",
         "ganadores2aciertos": 17244,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 562,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-23 21:00:00",
         "numerosGanadores": [
             3,
             23,
@@ -7900,12 +7926,12 @@
         "premio3aciertos": "1.051,30",
         "ganadores2aciertos": 11895,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 561,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-21 21:00:00",
         "numerosGanadores": [
             12,
             18,
@@ -7926,12 +7952,12 @@
         "premio3aciertos": "905,10",
         "ganadores2aciertos": 17510,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 560,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-18 21:00:00",
         "numerosGanadores": [
             20,
             37,
@@ -7952,12 +7978,12 @@
         "premio3aciertos": "1.097,16",
         "ganadores2aciertos": 13486,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 559,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-16 21:00:00",
         "numerosGanadores": [
             0,
             2,
@@ -7978,12 +8004,12 @@
         "premio3aciertos": "431,64",
         "ganadores2aciertos": 25087,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 558,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-14 21:00:00",
         "numerosGanadores": [
             2,
             10,
@@ -8004,12 +8030,12 @@
         "premio3aciertos": "526,00",
         "ganadores2aciertos": 46891,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 557,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-11 21:00:00",
         "numerosGanadores": [
             14,
             34,
@@ -8030,12 +8056,12 @@
         "premio3aciertos": "1.062,82",
         "ganadores2aciertos": 20463,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 556,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-09 21:00:00",
         "numerosGanadores": [
             8,
             14,
@@ -8056,12 +8082,12 @@
         "premio3aciertos": "833,53",
         "ganadores2aciertos": 18836,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 555,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-07 21:00:00",
         "numerosGanadores": [
             25,
             31,
@@ -8082,12 +8108,12 @@
         "premio3aciertos": "1.099,74",
         "ganadores2aciertos": 10036,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 554,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-04 21:00:00",
         "numerosGanadores": [
             13,
             17,
@@ -8108,12 +8134,12 @@
         "premio3aciertos": "462,66",
         "ganadores2aciertos": 19849,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 553,
-        "fecha": "2024-01-01",
+        "fecha": "2023-11-02 21:00:00",
         "numerosGanadores": [
             2,
             6,
@@ -8134,12 +8160,12 @@
         "premio3aciertos": "353,04",
         "ganadores2aciertos": 29000,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 552,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-31 21:00:00",
         "numerosGanadores": [
             23,
             28,
@@ -8160,12 +8186,12 @@
         "premio3aciertos": "870,75",
         "ganadores2aciertos": 13108,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 551,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-28 21:00:00",
         "numerosGanadores": [
             4,
             8,
@@ -8186,12 +8212,12 @@
         "premio3aciertos": "907,69",
         "ganadores2aciertos": 19739,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 550,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-26 21:00:00",
         "numerosGanadores": [
             6,
             28,
@@ -8212,12 +8238,12 @@
         "premio3aciertos": "1.118,11",
         "ganadores2aciertos": 11202,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 549,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-24 21:00:00",
         "numerosGanadores": [
             0,
             25,
@@ -8238,12 +8264,12 @@
         "premio3aciertos": "976,64",
         "ganadores2aciertos": 14403,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 548,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-21 21:00:00",
         "numerosGanadores": [
             1,
             17,
@@ -8264,12 +8290,12 @@
         "premio3aciertos": "819,54",
         "ganadores2aciertos": 40814,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 547,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-19 21:00:00",
         "numerosGanadores": [
             0,
             9,
@@ -8290,12 +8316,12 @@
         "premio3aciertos": "793,15",
         "ganadores2aciertos": 27205,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 546,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-17 21:00:00",
         "numerosGanadores": [
             10,
             15,
@@ -8316,12 +8342,12 @@
         "premio3aciertos": "690,60",
         "ganadores2aciertos": 18735,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 545,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-14 21:00:00",
         "numerosGanadores": [
             27,
             32,
@@ -8342,12 +8368,12 @@
         "premio3aciertos": "806,20",
         "ganadores2aciertos": 13763,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 544,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-12 21:00:00",
         "numerosGanadores": [
             9,
             11,
@@ -8368,12 +8394,12 @@
         "premio3aciertos": "833,13",
         "ganadores2aciertos": 12057,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 543,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-10 21:00:00",
         "numerosGanadores": [
             3,
             18,
@@ -8394,12 +8420,12 @@
         "premio3aciertos": "765,03",
         "ganadores2aciertos": 13630,
         "premio2aciertos": "200,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 542,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-07 21:00:00",
         "numerosGanadores": [
             2,
             15,
@@ -8420,12 +8446,12 @@
         "premio3aciertos": "330,36",
         "ganadores2aciertos": 22095,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 541,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-05 21:00:00",
         "numerosGanadores": [
             13,
             15,
@@ -8446,12 +8472,12 @@
         "premio3aciertos": "238,36",
         "ganadores2aciertos": 32762,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 540,
-        "fecha": "2024-01-01",
+        "fecha": "2023-10-03 21:00:00",
         "numerosGanadores": [
             3,
             7,
@@ -8472,12 +8498,12 @@
         "premio3aciertos": "411,16",
         "ganadores2aciertos": 15285,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 539,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-30 21:00:00",
         "numerosGanadores": [
             0,
             18,
@@ -8498,12 +8524,12 @@
         "premio3aciertos": "413,03",
         "ganadores2aciertos": 23485,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 538,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-28 21:00:00",
         "numerosGanadores": [
             22,
             24,
@@ -8524,12 +8550,12 @@
         "premio3aciertos": "323,31",
         "ganadores2aciertos": 17161,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 537,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-26 21:00:00",
         "numerosGanadores": [
             4,
             11,
@@ -8550,12 +8576,12 @@
         "premio3aciertos": "452,51",
         "ganadores2aciertos": 14908,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 536,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-23 21:00:00",
         "numerosGanadores": [
             18,
             27,
@@ -8576,12 +8602,12 @@
         "premio3aciertos": "494,99",
         "ganadores2aciertos": 13734,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 535,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-21 21:00:00",
         "numerosGanadores": [
             18,
             20,
@@ -8602,12 +8628,12 @@
         "premio3aciertos": "430,21",
         "ganadores2aciertos": 13950,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 534,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-19 21:00:00",
         "numerosGanadores": [
             20,
             43,
@@ -8628,12 +8654,12 @@
         "premio3aciertos": "543,81",
         "ganadores2aciertos": 12676,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 533,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-16 21:00:00",
         "numerosGanadores": [
             9,
             10,
@@ -8654,12 +8680,12 @@
         "premio3aciertos": "473,35",
         "ganadores2aciertos": 17077,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 532,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-14 21:00:00",
         "numerosGanadores": [
             12,
             44,
@@ -8680,12 +8706,12 @@
         "premio3aciertos": "493,90",
         "ganadores2aciertos": 13472,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 531,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-12 21:00:00",
         "numerosGanadores": [
             2,
             20,
@@ -8706,12 +8732,12 @@
         "premio3aciertos": "454,92",
         "ganadores2aciertos": 15849,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 530,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-09 21:00:00",
         "numerosGanadores": [
             17,
             18,
@@ -8732,12 +8758,12 @@
         "premio3aciertos": "299,91",
         "ganadores2aciertos": 24212,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 529,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-07 21:00:00",
         "numerosGanadores": [
             9,
             16,
@@ -8758,12 +8784,12 @@
         "premio3aciertos": "295,28",
         "ganadores2aciertos": 38482,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 528,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-05 21:00:00",
         "numerosGanadores": [
             0,
             9,
@@ -8784,12 +8810,12 @@
         "premio3aciertos": "517,46",
         "ganadores2aciertos": 18967,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 527,
-        "fecha": "2024-01-01",
+        "fecha": "2023-09-02 21:00:00",
         "numerosGanadores": [
             8,
             32,
@@ -8810,12 +8836,12 @@
         "premio3aciertos": "338,07",
         "ganadores2aciertos": 20288,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 526,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-31 21:00:00",
         "numerosGanadores": [
             4,
             6,
@@ -8836,12 +8862,12 @@
         "premio3aciertos": "249,58",
         "ganadores2aciertos": 26296,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 525,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-29 21:00:00",
         "numerosGanadores": [
             1,
             3,
@@ -8862,12 +8888,12 @@
         "premio3aciertos": "382,34",
         "ganadores2aciertos": 14882,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 524,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-26 21:00:00",
         "numerosGanadores": [
             0,
             1,
@@ -8888,12 +8914,12 @@
         "premio3aciertos": "387,17",
         "ganadores2aciertos": 18675,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 523,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-24 21:00:00",
         "numerosGanadores": [
             11,
             18,
@@ -8914,12 +8940,12 @@
         "premio3aciertos": "373,48",
         "ganadores2aciertos": 16759,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 522,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-22 21:00:00",
         "numerosGanadores": [
             2,
             6,
@@ -8940,12 +8966,12 @@
         "premio3aciertos": "402,83",
         "ganadores2aciertos": 21023,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 521,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-19 21:00:00",
         "numerosGanadores": [
             19,
             20,
@@ -8966,12 +8992,12 @@
         "premio3aciertos": "411,68",
         "ganadores2aciertos": 18101,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 520,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-17 21:00:00",
         "numerosGanadores": [
             20,
             34,
@@ -8992,12 +9018,12 @@
         "premio3aciertos": "517,88",
         "ganadores2aciertos": 12899,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 519,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-15 21:00:00",
         "numerosGanadores": [
             7,
             19,
@@ -9018,12 +9044,12 @@
         "premio3aciertos": "323,77",
         "ganadores2aciertos": 19032,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 518,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-12 21:00:00",
         "numerosGanadores": [
             5,
             7,
@@ -9044,12 +9070,12 @@
         "premio3aciertos": "423,18",
         "ganadores2aciertos": 21376,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 517,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-10 21:00:00",
         "numerosGanadores": [
             2,
             9,
@@ -9070,12 +9096,12 @@
         "premio3aciertos": "410,40",
         "ganadores2aciertos": 20592,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 516,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-08 21:00:00",
         "numerosGanadores": [
             8,
             10,
@@ -9096,12 +9122,12 @@
         "premio3aciertos": "275,53",
         "ganadores2aciertos": 41632,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 515,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-05 21:00:00",
         "numerosGanadores": [
             5,
             31,
@@ -9122,12 +9148,12 @@
         "premio3aciertos": "467,30",
         "ganadores2aciertos": 26422,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 514,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-03 21:00:00",
         "numerosGanadores": [
             9,
             25,
@@ -9148,12 +9174,12 @@
         "premio3aciertos": "475,88",
         "ganadores2aciertos": 17633,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 513,
-        "fecha": "2024-01-01",
+        "fecha": "2023-08-01 21:00:00",
         "numerosGanadores": [
             5,
             13,
@@ -9174,12 +9200,12 @@
         "premio3aciertos": "302,09",
         "ganadores2aciertos": 40119,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 512,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-29 21:00:00",
         "numerosGanadores": [
             0,
             17,
@@ -9200,12 +9226,12 @@
         "premio3aciertos": "468,96",
         "ganadores2aciertos": 25694,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 511,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-27 21:00:00",
         "numerosGanadores": [
             10,
             24,
@@ -9226,12 +9252,12 @@
         "premio3aciertos": "456,46",
         "ganadores2aciertos": 17430,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 510,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-25 21:00:00",
         "numerosGanadores": [
             8,
             9,
@@ -9252,12 +9278,12 @@
         "premio3aciertos": "236,78",
         "ganadores2aciertos": 30267,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 509,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-22 21:00:00",
         "numerosGanadores": [
             10,
             13,
@@ -9278,12 +9304,12 @@
         "premio3aciertos": "459,43",
         "ganadores2aciertos": 51863,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 508,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-20 21:00:00",
         "numerosGanadores": [
             22,
             37,
@@ -9304,12 +9330,12 @@
         "premio3aciertos": "502,98",
         "ganadores2aciertos": 35695,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 507,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-18 21:00:00",
         "numerosGanadores": [
             26,
             33,
@@ -9330,12 +9356,12 @@
         "premio3aciertos": "524,82",
         "ganadores2aciertos": 24829,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 506,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-15 21:00:00",
         "numerosGanadores": [
             4,
             12,
@@ -9356,12 +9382,12 @@
         "premio3aciertos": "345,04",
         "ganadores2aciertos": 27240,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 505,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-13 21:00:00",
         "numerosGanadores": [
             8,
             15,
@@ -9382,12 +9408,12 @@
         "premio3aciertos": "289,34",
         "ganadores2aciertos": 18097,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 504,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-11 21:00:00",
         "numerosGanadores": [
             9,
             10,
@@ -9408,12 +9434,12 @@
         "premio3aciertos": "449,93",
         "ganadores2aciertos": 19970,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 503,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-08 21:00:00",
         "numerosGanadores": [
             10,
             28,
@@ -9434,12 +9460,12 @@
         "premio3aciertos": "471,07",
         "ganadores2aciertos": 16484,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 502,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-06 21:00:00",
         "numerosGanadores": [
             2,
             14,
@@ -9460,12 +9486,12 @@
         "premio3aciertos": "227,01",
         "ganadores2aciertos": 21202,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 501,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-04 21:00:00",
         "numerosGanadores": [
             3,
             7,
@@ -9486,12 +9512,12 @@
         "premio3aciertos": "358,98",
         "ganadores2aciertos": 16391,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 500,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-01 21:00:00",
         "numerosGanadores": [
             6,
             42,
@@ -9512,12 +9538,12 @@
         "premio3aciertos": "534,45",
         "ganadores2aciertos": 14193,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 499,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-29 21:00:00",
         "numerosGanadores": [
             5,
             12,
@@ -9538,12 +9564,12 @@
         "premio3aciertos": "329,03",
         "ganadores2aciertos": 16924,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 498,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-27 21:00:00",
         "numerosGanadores": [
             9,
             19,
@@ -9564,12 +9590,12 @@
         "premio3aciertos": "479,80",
         "ganadores2aciertos": 14532,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 497,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-24 21:00:00",
         "numerosGanadores": [
             1,
             17,
@@ -9590,12 +9616,12 @@
         "premio3aciertos": "332,97",
         "ganadores2aciertos": 30400,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 496,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-22 21:00:00",
         "numerosGanadores": [
             12,
             14,
@@ -9616,12 +9642,12 @@
         "premio3aciertos": "421,05",
         "ganadores2aciertos": 18473,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 495,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-17 21:00:00",
         "numerosGanadores": [
             2,
             31,
@@ -9642,12 +9668,12 @@
         "premio3aciertos": "524,94",
         "ganadores2aciertos": 21484,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 494,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-15 21:00:00",
         "numerosGanadores": [
             4,
             25,
@@ -9668,12 +9694,12 @@
         "premio3aciertos": "569,52",
         "ganadores2aciertos": 14427,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 493,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-13 21:00:00",
         "numerosGanadores": [
             0,
             1,
@@ -9694,12 +9720,12 @@
         "premio3aciertos": "432,02",
         "ganadores2aciertos": 20912,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 492,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-10 21:00:00",
         "numerosGanadores": [
             1,
             12,
@@ -9720,12 +9746,12 @@
         "premio3aciertos": "291,28",
         "ganadores2aciertos": 47411,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 491,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-08 21:00:00",
         "numerosGanadores": [
             1,
             6,
@@ -9746,12 +9772,12 @@
         "premio3aciertos": "453,61",
         "ganadores2aciertos": 28548,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 490,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-06 21:00:00",
         "numerosGanadores": [
             4,
             12,
@@ -9772,12 +9798,12 @@
         "premio3aciertos": "458,31",
         "ganadores2aciertos": 21900,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 489,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-03 21:00:00",
         "numerosGanadores": [
             8,
             11,
@@ -9798,12 +9824,12 @@
         "premio3aciertos": "279,40",
         "ganadores2aciertos": 79888,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 488,
-        "fecha": "2024-01-01",
+        "fecha": "2023-06-01 21:00:00",
         "numerosGanadores": [
             4,
             16,
@@ -9824,12 +9850,12 @@
         "premio3aciertos": "409,02",
         "ganadores2aciertos": 44110,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 487,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-30 21:00:00",
         "numerosGanadores": [
             15,
             38,
@@ -9850,12 +9876,12 @@
         "premio3aciertos": "580,49",
         "ganadores2aciertos": 19942,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 486,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-27 21:00:00",
         "numerosGanadores": [
             11,
             24,
@@ -9876,12 +9902,12 @@
         "premio3aciertos": "443,41",
         "ganadores2aciertos": 17526,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 485,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-23 21:00:00",
         "numerosGanadores": [
             12,
             21,
@@ -9902,12 +9928,12 @@
         "premio3aciertos": "390,92",
         "ganadores2aciertos": 11328,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 484,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-20 21:00:00",
         "numerosGanadores": [
             13,
             16,
@@ -9928,12 +9954,12 @@
         "premio3aciertos": "397,77",
         "ganadores2aciertos": 16869,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 483,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-18 21:00:00",
         "numerosGanadores": [
             0,
             8,
@@ -9954,12 +9980,12 @@
         "premio3aciertos": "430,99",
         "ganadores2aciertos": 10737,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 482,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-16 21:00:00",
         "numerosGanadores": [
             1,
             10,
@@ -9980,12 +10006,12 @@
         "premio3aciertos": "418,12",
         "ganadores2aciertos": 11750,
         "premio2aciertos": "100,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 481,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-13 21:00:00",
         "numerosGanadores": [
             15,
             18,
@@ -10006,12 +10032,12 @@
         "premio3aciertos": "255,68",
         "ganadores2aciertos": 15774,
         "premio2aciertos": "50,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 480,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-11 21:00:00",
         "numerosGanadores": [
             12,
             18,
@@ -10032,12 +10058,12 @@
         "premio3aciertos": "252,77",
         "ganadores2aciertos": 14527,
         "premio2aciertos": "50,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 479,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-09 21:00:00",
         "numerosGanadores": [
             1,
             7,
@@ -10058,12 +10084,12 @@
         "premio3aciertos": "253,69",
         "ganadores2aciertos": 15077,
         "premio2aciertos": "50,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 478,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-06 21:00:00",
         "numerosGanadores": [
             2,
             14,
@@ -10084,12 +10110,12 @@
         "premio3aciertos": "179,72",
         "ganadores2aciertos": 32615,
         "premio2aciertos": "9,73",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 477,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-04 21:00:00",
         "numerosGanadores": [
             3,
             6,
@@ -10110,12 +10136,12 @@
         "premio3aciertos": "194,83",
         "ganadores2aciertos": 20712,
         "premio2aciertos": "10,27",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 476,
-        "fecha": "2024-01-01",
+        "fecha": "2023-05-02 21:00:00",
         "numerosGanadores": [
             5,
             22,
@@ -10136,12 +10162,12 @@
         "premio3aciertos": "185,23",
         "ganadores2aciertos": 13376,
         "premio2aciertos": "9,80",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 475,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-29 21:00:00",
         "numerosGanadores": [
             19,
             22,
@@ -10162,12 +10188,12 @@
         "premio3aciertos": "222,71",
         "ganadores2aciertos": 22310,
         "premio2aciertos": "10,87",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 474,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-27 21:00:00",
         "numerosGanadores": [
             10,
             27,
@@ -10188,12 +10214,12 @@
         "premio3aciertos": "256,93",
         "ganadores2aciertos": 12577,
         "premio2aciertos": "13,02",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 473,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-25 21:00:00",
         "numerosGanadores": [
             6,
             14,
@@ -10214,12 +10240,12 @@
         "premio3aciertos": "189,36",
         "ganadores2aciertos": 17732,
         "premio2aciertos": "9,89",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 472,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-22 21:00:00",
         "numerosGanadores": [
             7,
             10,
@@ -10240,12 +10266,12 @@
         "premio3aciertos": "133,52",
         "ganadores2aciertos": 30846,
         "premio2aciertos": "50,00",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 471,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-20 21:00:00",
         "numerosGanadores": [
             7,
             8,
@@ -10266,12 +10292,12 @@
         "premio3aciertos": "174,82",
         "ganadores2aciertos": 18805,
         "premio2aciertos": "9,44",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 470,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-18 21:00:00",
         "numerosGanadores": [
             7,
             22,
@@ -10292,12 +10318,12 @@
         "premio3aciertos": "107,24",
         "ganadores2aciertos": 23743,
         "premio2aciertos": "7,78",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 469,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-15 21:00:00",
         "numerosGanadores": [
             10,
             13,
@@ -10318,12 +10344,12 @@
         "premio3aciertos": "88,08",
         "ganadores2aciertos": 45689,
         "premio2aciertos": "6,89",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 468,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-13 21:00:00",
         "numerosGanadores": [
             1,
             13,
@@ -10344,12 +10370,12 @@
         "premio3aciertos": "189,24",
         "ganadores2aciertos": 20704,
         "premio2aciertos": "9,90",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 467,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-11 21:00:00",
         "numerosGanadores": [
             13,
             20,
@@ -10370,12 +10396,12 @@
         "premio3aciertos": "285,27",
         "ganadores2aciertos": 12553,
         "premio2aciertos": "12,79",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 466,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-08 21:00:00",
         "numerosGanadores": [
             0,
             23,
@@ -10396,12 +10422,12 @@
         "premio3aciertos": "234,21",
         "ganadores2aciertos": 13821,
         "premio2aciertos": "11,74",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 465,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-06 21:00:00",
         "numerosGanadores": [
             1,
             10,
@@ -10422,12 +10448,12 @@
         "premio3aciertos": "182,78",
         "ganadores2aciertos": 21776,
         "premio2aciertos": "9,58",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 464,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-04 21:00:00",
         "numerosGanadores": [
             1,
             3,
@@ -10448,12 +10474,12 @@
         "premio3aciertos": "216,18",
         "ganadores2aciertos": 13807,
         "premio2aciertos": "10,98",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 463,
-        "fecha": "2024-01-01",
+        "fecha": "2023-04-01 21:00:00",
         "numerosGanadores": [
             1,
             11,
@@ -10474,12 +10500,12 @@
         "premio3aciertos": "205,30",
         "ganadores2aciertos": 20244,
         "premio2aciertos": "10,79",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 462,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-30 21:00:00",
         "numerosGanadores": [
             13,
             15,
@@ -10500,12 +10526,12 @@
         "premio3aciertos": "220,41",
         "ganadores2aciertos": 12375,
         "premio2aciertos": "11,54",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 461,
-        "fecha": "2024-01-01",
+        "fecha": "2023-28-03 21:00:00",
         "numerosGanadores": [
             3,
             16,
@@ -10526,12 +10552,12 @@
         "premio3aciertos": "204,66",
         "ganadores2aciertos": 14462,
         "premio2aciertos": "10,91",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 460,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-25 21:00:00",
         "numerosGanadores": [
             6,
             19,
@@ -10552,12 +10578,12 @@
         "premio3aciertos": "192,04",
         "ganadores2aciertos": 20367,
         "premio2aciertos": "10,23",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 459,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-23 21:00:00",
         "numerosGanadores": [
             23,
             42,
@@ -10578,12 +10604,12 @@
         "premio3aciertos": "261,70",
         "ganadores2aciertos": 12121,
         "premio2aciertos": "12,99",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 458,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-21 21:00:00",
         "numerosGanadores": [
             22,
             41,
@@ -10604,12 +10630,12 @@
         "premio3aciertos": "167,19",
         "ganadores2aciertos": 17617,
         "premio2aciertos": "9,81",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 457,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-18 21:00:00",
         "numerosGanadores": [
             20,
             22,
@@ -10630,12 +10656,12 @@
         "premio3aciertos": "134,48",
         "ganadores2aciertos": 30323,
         "premio2aciertos": "8,22",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 456,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-16 21:00:00",
         "numerosGanadores": [
             6,
             10,
@@ -10656,12 +10682,12 @@
         "premio3aciertos": "172,79",
         "ganadores2aciertos": 17514,
         "premio2aciertos": "9,71",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 455,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-14 21:00:00",
         "numerosGanadores": [
             20,
             32,
@@ -10682,12 +10708,12 @@
         "premio3aciertos": "225,95",
         "ganadores2aciertos": 20503,
         "premio2aciertos": "11,53",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 454,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-11 21:00:00",
         "numerosGanadores": [
             5,
             19,
@@ -10708,12 +10734,12 @@
         "premio3aciertos": "217,49",
         "ganadores2aciertos": 16425,
         "premio2aciertos": "11,27",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 453,
-        "fecha": "2024-01-01",
+        "fecha": "2023-03-09 21:00:00",
         "numerosGanadores": [
             0,
             18,
@@ -10734,12 +10760,12 @@
         "premio3aciertos": "223,29",
         "ganadores2aciertos": 15364,
         "premio2aciertos": "11,36",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     },
     {
         "numeroSorteo": 452,
-        "fecha": "2024-01-01",
+        "fecha": "2023-07-03 21:00:00",
         "numerosGanadores": [
             11,
             35,
@@ -10760,7 +10786,7 @@
         "premio3aciertos": "237,61",
         "ganadores2aciertos": 21131,
         "premio2aciertos": "12,08",
-        "pozoEstimadoProximo": "Ver próximo sorteo",
+        "pozoEstimadoProximo": "0",
         "fechaProximo": ""
     }
 ]
