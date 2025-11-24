@@ -21,7 +21,7 @@ jobs:
 
       - name: Instalar librerías
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 pypdf
 
       - name: Ejecutar Robot
         run: python scraper.py
