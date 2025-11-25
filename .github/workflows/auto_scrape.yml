@@ -2,9 +2,9 @@ name: Robot Poceada
 
 on:
   schedule:
-    # Se ejecuta a las 14:30 y 22:30 UTC (Ajustar a hora Argentina)
-    - cron: '30 14,22 * * *' 
-  workflow_dispatch: # Permite ejecutarlo manualmente con un botón para probar
+    # Minuto 15, Hora 0, Días: Domingo(0), Miércoles(3), Viernes(5) (UTC)
+    - cron: '15 0 * * 0,3,5'
+  workflow_dispatch: 
 
 jobs:
   build:
