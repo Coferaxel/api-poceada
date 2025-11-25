@@ -1,0 +1,38 @@
+name: Backup Semanal Seguro
+
+on:
+  schedule:
+    # Se ejecuta todos los Domingos a las 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Permite ejecutarlo manualmente para probar
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Obtener código actual
+        uses: actions/checkout@v3
+        with:
+          ref: main # Tomamos los datos de la rama principal
+
+      - name: Crear copia de seguridad
+        run: |
+          # Configurar identidad del robot
+          git config --global user.name 'Robot Backup'
+          git config --global user.email 'backup@noreply.github.com'
+          
+          # Crear nombre de archivo con fecha (ej: datos_2025-11-24.json)
+          FECHA=$(date +%F)
+          ARCHIVO_BACKUP="respaldos/semanal_$FECHA.json"
+          
+          # Crear carpeta si no existe
+          mkdir -p respaldos
+          
+          # Copiar el archivo actual
+          cp datos_poceada.json $ARCHIVO_BACKUP
+          
+          # Guardar en la rama principal (opción A: guardar en carpeta respaldos)
+          git add $ARCHIVO_BACKUP
+          git commit -m "Backup Semanal: $FECHA"
+          git push
