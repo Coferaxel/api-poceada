@@ -2,42 +2,37 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-import time
+import os
+from datetime import datetime
 from io import BytesIO
 from pypdf import PdfReader
 import urllib3
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# --- RANGO CORREGIDO (IDs de URL) ---
-# Buscamos alrededor del 868 para asegurar que agarre el último
+ARCHIVO_JSON = 'datos_poceada.json'
+CARPETA_BACKUP = 'backups'
+
+# RANGO para probar (Ajusta a lo que necesites, ej: el último ID 868)
 RANGO_INICIO = 860 
 RANGO_FIN = 875 
 
 lista_sorteos = []
-print(f"--- REPARANDO ULTIMOS POZOS (IDs Web {RANGO_INICIO}-{RANGO_FIN}) ---")
+print(f"--- ROBOT FECHAS HTML ({RANGO_INICIO}-{RANGO_FIN}) ---")
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-
-# Cargamos el historial existente para no perder lo viejo
-try:
-    with open('datos_poceada.json', 'r', encoding='utf-8') as f:
-        historial_existente = json.load(f)
-except:
-    historial_existente = []
+headers = {'User-Agent': 'Mozilla/5.0'}
 
 for id_url in range(RANGO_INICIO, RANGO_FIN):
     url = f"https://loteria.chaco.gov.ar/detalle_poceada/{id_url}"
-    
     try:
-        print(f"ID Web {id_url}...", end=" ")
+        print(f"ID {id_url}...", end=" ")
         response = requests.get(url, headers=headers, timeout=10, verify=False)
-        
         if response.status_code != 200:
-            print(f"❌ (Vacío)")
+            print("❌")
             continue
 
         soup = BeautifulSoup(response.content, 'html.parser')
+        texto_pagina = soup.get_text()
 
         # 1. NÚMERO REAL
         numero_real_sorteo = 0
@@ -45,75 +40,57 @@ for id_url in range(RANGO_INICIO, RANGO_FIN):
             if "Sorteo" in t.text:
                 nums = re.findall(r'\d+', t.text)
                 if nums: numero_real_sorteo = int(nums[0])
-        
-        if numero_real_sorteo == 0: 
-            print("(No es sorteo)")
-            continue
+        if numero_real_sorteo == 0: continue
 
         # 2. BOLILLAS
         numeros = []
         for item in soup.find_all("li", class_="results-list__item"):
             p = item.find_all("p", class_="results-number")
             if len(p) == 2:
-                txt = p[1].text.strip()
-                if txt.isdigit(): numeros.append(int(txt))
+                t = p[1].text.strip()
+                if t.isdigit(): numeros.append(int(t))
         numeros = sorted(list(set(numeros[:10])))
-        if len(numeros) < 5: 
-            print("⚠️")
-            continue
+        if len(numeros) < 5: continue
 
-        # 3. PDF (FECHA Y POZO)
+        # --- 3. FECHA DESDE EL HTML (NUEVO) ---
         fecha_sorteo = "Fecha Pendiente"
+        
+        # Buscamos patrón DD/MM/YYYY en todo el texto de la página
+        # Ej: "Sorteo del 22/11/2025" o simplemente la fecha suelta
+        match_fecha_html = re.search(r'(\d{1,2})[\/-](\d{1,2})[\/-](\d{4})', texto_pagina)
+        
+        if match_fecha_html:
+            d, m, y = match_fecha_html.groups()
+            # Aseguramos ceros (05 en vez de 5)
+            d = d.zfill(2)
+            m = m.zfill(2)
+            fecha_sorteo = f"{y}-{m}-{d} 21:00:00"
+        
+        # --- 4. PDF (SOLO PARA POZO) ---
         pozo_proximo = "0"
-        
         link_pdf = soup.find('a', href=re.compile(r'POCEADA.*\.pdf', re.IGNORECASE))
-        
         if link_pdf:
             try:
-                raw_href = requests.utils.unquote(link_pdf.get('href'))
-                
-                # FECHA
-                match_fecha = re.search(r'(\d{2})[-/](\d{2})[-/](\d{2,4})', raw_href)
-                if match_fecha:
-                    d, m, y = match_fecha.groups()
-                    if len(y) == 2: y = "20" + y
-                    fecha_sorteo = f"{y}-{m}-{d} 21:00:00"
-
-                # DESCARGAR
-                pdf_url = "https://loteria.chaco.gov.ar" + raw_href if raw_href.startswith('/') else raw_href
-                resp_pdf = requests.get(pdf_url, headers=headers, verify=False)
-                
-                if resp_pdf.status_code == 200:
-                    reader = PdfReader(BytesIO(resp_pdf.content))
-                    texto_pdf = ""
-                    for page in reader.pages: texto_pdf += page.extract_text() + " "
+                raw = requests.utils.unquote(link_pdf.get('href'))
+                p_url = "https://loteria.chaco.gov.ar" + raw if raw.startswith('/') else raw
+                resp = requests.get(p_url, headers=headers, verify=False)
+                if resp.status_code == 200:
+                    reader = PdfReader(BytesIO(resp.content))
+                    txt_pdf = ""
+                    for p in reader.pages: txt_pdf += p.extract_text() + " "
+                    txt_pdf = " ".join(txt_pdf.split())
                     
-                    # LIMPIEZA
-                    texto_limpio = " ".join(texto_pdf.split())
-                    
-                    # FECHA EN PDF (Si falló el nombre)
-                    if fecha_sorteo == "Fecha Pendiente":
-                         match_f = re.search(r'(\d{2})[-/](\d{2})[-/](\d{2,4})', texto_limpio)
-                         if match_f:
-                            d, m, y = match_f.groups()
-                            if len(y) == 2: y = "20" + y
-                            fecha_sorteo = f"{y}-{m}-{d} 21:00:00"
+                    if "ESTIMADO" in txt_pdf.upper():
+                        parte = txt_pdf.upper().split("ESTIMADO")[1]
+                        m_dinero = re.search(r'(\d{1,3}(?:\.\d{3})*,\d{2})', parte)
+                        if m_dinero: pozo_proximo = m_dinero.group(1)
+            except: pass
 
-                    # POZO
-                    if "ESTIMADO" in texto_limpio.upper():
-                        parte = texto_limpio.upper().split("ESTIMADO")[1]
-                        # Busca: Digitos, puntos opcionales, coma, 2 digitos
-                        match_dinero = re.search(r'(\d{1,3}(?:\.\d{3})*,\d{2})', parte)
-                        if match_dinero:
-                            pozo_proximo = match_dinero.group(1)
-
-            except Exception as e: pass
-
-        # 4. PREMIOS
+        # 5. PREMIOS (HTML)
         dp = { "pozo5": "0", "gan5": 0, "vacante5": False, "pozo4": "0", "gan4": 0, "pozo3": "0", "gan3": 0, "pozo2": "0", "gan2": 0 }
-        header = soup.find("h4", string=re.compile("Pozos Quiniela Poceada"))
-        if header:
-            filas = header.find_parent("div", class_="card").find_all("li", class_="results-list__item")
+        h = soup.find("h4", string=re.compile("Pozos Quiniela Poceada"))
+        if h:
+            filas = h.find_parent("div", class_="card").find_all("li", class_="results-list__item")
             def cln(t): return t.replace("\n", "").strip()
             if len(filas) > 1:
                 dp["pozo5"] = cln(filas[1].find_all("p")[1].text)
@@ -130,7 +107,7 @@ for id_url in range(RANGO_INICIO, RANGO_FIN):
                 dp["gan2"] = int(cln(filas[4].find_all("p")[2].text).replace(".",""))
                 dp["pozo2"] = cln(filas[4].find_all("p")[3].text)
 
-        # 5. ACTUALIZAR O AGREGAR
+        # GUARDAR
         obj = {
             "numeroSorteo": numero_real_sorteo, "id_web": id_url, "fecha": fecha_sorteo,
             "numerosGanadores": numeros,
@@ -140,26 +117,14 @@ for id_url in range(RANGO_INICIO, RANGO_FIN):
             "ganadores2aciertos": dp["gan2"], "premio2aciertos": dp["pozo2"],
             "pozoEstimadoProximo": pozo_proximo, "fechaProximo": "" 
         }
-        
-        # Reemplazar si existe, sino agregar
-        encontrado = False
-        for i, s in enumerate(historial_existente):
-            if s['numeroSorteo'] == numero_real_sorteo:
-                historial_existente[i] = obj
-                encontrado = True
-                break
-        if not encontrado:
-            historial_existente.insert(0, obj)
+        lista_sorteos.insert(0, obj)
+        print(f"✅ {numero_real_sorteo} | Fecha: {fecha_sorteo}")
 
-        print(f"✅ Sorteo {numero_real_sorteo} (ID {id_url}) - Pozo: ${pozo_proximo}")
+    except Exception as e: print(f"❌ {e}")
 
-    except Exception as e:
-        print(f"❌ {e}")
-
-# Ordenar historial por numeroSorteo descendente
-historial_existente.sort(key=lambda x: x['numeroSorteo'], reverse=True)
-
+# Solo si es script de historial masivo, guarda pisando todo. 
+# Si es scraper diario, usa la lógica de insert.
 with open('datos_poceada.json', 'w', encoding='utf-8') as f:
-    json.dump(historial_existente, f, indent=4, ensure_ascii=False)
+    json.dump(lista_sorteos, f, indent=4, ensure_ascii=False)
 
-print(f"\n✨ FINALIZADO.")
+print(f"\n✨ LISTO.")

@@ -13,31 +13,26 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ARCHIVO_JSON = 'datos_poceada.json'
 CARPETA_BACKUP = 'backups'
 
-# Ajusta esto para que busque el sorteo de hoy (ej: 868 o el que toque)
-ID_BASE_WEB = 860 
+# RANGO para probar (Ajusta a lo que necesites, ej: el último ID 868)
+RANGO_INICIO = 860 
+RANGO_FIN = 875 
 
-def obtener_ultimo_id_web_procesado():
-    if os.path.exists("ultimo_id_web.txt"):
-        with open("ultimo_id_web.txt", "r") as f:
-            return int(f.read().strip())
-    return ID_BASE_WEB
+lista_sorteos = []
+print(f"--- ROBOT FECHAS HTML ({RANGO_INICIO}-{RANGO_FIN}) ---")
 
-def guardar_ultimo_id_web(id_web):
-    with open("ultimo_id_web.txt", "w") as f:
-        f.write(str(id_web))
+headers = {'User-Agent': 'Mozilla/5.0'}
 
-def procesar_sorteo(id_url):
+for id_url in range(RANGO_INICIO, RANGO_FIN):
     url = f"https://loteria.chaco.gov.ar/detalle_poceada/{id_url}"
-    headers = {'User-Agent': 'Mozilla/5.0'}
-    
     try:
-        print(f"🔍 Consultando ID Web {id_url}...", end=" ")
-        response = requests.get(url, headers=headers, timeout=15, verify=False)
+        print(f"ID {id_url}...", end=" ")
+        response = requests.get(url, headers=headers, timeout=10, verify=False)
         if response.status_code != 200:
-            print("❌ No disponible.")
-            return None
+            print("❌")
+            continue
 
         soup = BeautifulSoup(response.content, 'html.parser')
+        texto_pagina = soup.get_text()
 
         # 1. NÚMERO REAL
         numero_real_sorteo = 0
@@ -45,72 +40,57 @@ def procesar_sorteo(id_url):
             if "Sorteo" in t.text:
                 nums = re.findall(r'\d+', t.text)
                 if nums: numero_real_sorteo = int(nums[0])
-        if numero_real_sorteo == 0: numero_real_sorteo = id_url
+        if numero_real_sorteo == 0: continue
 
-        # 2. NÚMEROS
+        # 2. BOLILLAS
         numeros = []
         for item in soup.find_all("li", class_="results-list__item"):
             p = item.find_all("p", class_="results-number")
             if len(p) == 2:
-                txt = p[1].text.strip()
-                if txt.isdigit(): numeros.append(int(txt))
+                t = p[1].text.strip()
+                if t.isdigit(): numeros.append(int(t))
         numeros = sorted(list(set(numeros[:10])))
-        if len(numeros) < 5: 
-            print("⚠️ Página vacía.")
-            return None
+        if len(numeros) < 5: continue
 
-        # 3. PDF (ESTRATEGIA FUERZA BRUTA)
-        fecha_sorteo = datetime.now().strftime("%Y-%m-%d 21:00:00")
+        # --- 3. FECHA DESDE EL HTML (NUEVO) ---
+        fecha_sorteo = "Fecha Pendiente"
+        
+        # Buscamos patrón DD/MM/YYYY en todo el texto de la página
+        # Ej: "Sorteo del 22/11/2025" o simplemente la fecha suelta
+        match_fecha_html = re.search(r'(\d{1,2})[\/-](\d{1,2})[\/-](\d{4})', texto_pagina)
+        
+        if match_fecha_html:
+            d, m, y = match_fecha_html.groups()
+            # Aseguramos ceros (05 en vez de 5)
+            d = d.zfill(2)
+            m = m.zfill(2)
+            fecha_sorteo = f"{y}-{m}-{d} 21:00:00"
+        
+        # --- 4. PDF (SOLO PARA POZO) ---
         pozo_proximo = "0"
-        
         link_pdf = soup.find('a', href=re.compile(r'POCEADA.*\.pdf', re.IGNORECASE))
-        
         if link_pdf:
             try:
-                raw_href = requests.utils.unquote(link_pdf.get('href'))
-                pdf_url = "https://loteria.chaco.gov.ar" + raw_href if raw_href.startswith('/') else raw_href
-                
-                resp_pdf = requests.get(pdf_url, headers=headers, verify=False)
-                if resp_pdf.status_code == 200:
-                    reader = PdfReader(BytesIO(resp_pdf.content))
-                    texto_pdf = ""
-                    for page in reader.pages: texto_pdf += page.extract_text() + " "
+                raw = requests.utils.unquote(link_pdf.get('href'))
+                p_url = "https://loteria.chaco.gov.ar" + raw if raw.startswith('/') else raw
+                resp = requests.get(p_url, headers=headers, verify=False)
+                if resp.status_code == 200:
+                    reader = PdfReader(BytesIO(resp.content))
+                    txt_pdf = ""
+                    for p in reader.pages: txt_pdf += p.extract_text() + " "
+                    txt_pdf = " ".join(txt_pdf.split())
                     
-                    # 1. BUSCAR FECHA
-                    match_f = re.search(r'(\d{2})[-/](\d{2})[-/](\d{2,4})', texto_pdf)
-                    if match_f:
-                        d, m, y = match_f.groups()
-                        if len(y) == 2: y = "20" + y
-                        fecha_sorteo = f"{y}-{m}-{d} 21:00:00"
-
-                    # 2. BUSCAR EL POZO (EL NÚMERO MÁS GRANDE)
-                    # Buscamos todos los montos que parezcan dinero (ej: 123.456,78)
-                    # Regex: Dígitos con puntos, terminados en coma y 2 decimales
-                    candidatos = re.findall(r'(\d{1,3}(?:\.\d{3})*,\d{2})', texto_pdf)
-                    
-                    mayor_monto = 0.0
-                    string_mayor = "0"
-
-                    for c in candidatos:
-                        # Convertimos a float para comparar (quitamos puntos, cambiamos coma por punto)
-                        try:
-                            valor_limpio = float(c.replace('.', '').replace(',', '.'))
-                            # Filtramos números locos (ej: fechas confundidas)
-                            if valor_limpio > mayor_monto and valor_limpio > 1000000: # Asumimos que el pozo es > 1 millón
-                                mayor_monto = valor_limpio
-                                string_mayor = c
-                        except: pass
-                    
-                    if mayor_monto > 0:
-                        pozo_proximo = string_mayor
-                        
+                    if "ESTIMADO" in txt_pdf.upper():
+                        parte = txt_pdf.upper().split("ESTIMADO")[1]
+                        m_dinero = re.search(r'(\d{1,3}(?:\.\d{3})*,\d{2})', parte)
+                        if m_dinero: pozo_proximo = m_dinero.group(1)
             except: pass
 
-        # 4. PREMIOS
+        # 5. PREMIOS (HTML)
         dp = { "pozo5": "0", "gan5": 0, "vacante5": False, "pozo4": "0", "gan4": 0, "pozo3": "0", "gan3": 0, "pozo2": "0", "gan2": 0 }
-        header = soup.find("h4", string=re.compile("Pozos Quiniela Poceada"))
-        if header:
-            filas = header.find_parent("div", class_="card").find_all("li", class_="results-list__item")
+        h = soup.find("h4", string=re.compile("Pozos Quiniela Poceada"))
+        if h:
+            filas = h.find_parent("div", class_="card").find_all("li", class_="results-list__item")
             def cln(t): return t.replace("\n", "").strip()
             if len(filas) > 1:
                 dp["pozo5"] = cln(filas[1].find_all("p")[1].text)
@@ -127,52 +107,24 @@ def procesar_sorteo(id_url):
                 dp["gan2"] = int(cln(filas[4].find_all("p")[2].text).replace(".",""))
                 dp["pozo2"] = cln(filas[4].find_all("p")[3].text)
 
-        print(f"✅ Sorteo {numero_real_sorteo} - Pozo Detectado: ${pozo_proximo}")
-        
-        return {
-            "numeroSorteo": numero_real_sorteo, "id_web": id_url, "fecha": fecha_sorteo, "numerosGanadores": numeros,
+        # GUARDAR
+        obj = {
+            "numeroSorteo": numero_real_sorteo, "id_web": id_url, "fecha": fecha_sorteo,
+            "numerosGanadores": numeros,
             "pozo5aciertos": dp["pozo5"], "vacante5aciertos": dp["vacante5"],
             "ganadores4aciertos": dp["gan4"], "premio4aciertos": dp["pozo4"],
             "ganadores3aciertos": dp["gan3"], "premio3aciertos": dp["pozo3"],
             "ganadores2aciertos": dp["gan2"], "premio2aciertos": dp["pozo2"],
             "pozoEstimadoProximo": pozo_proximo, "fechaProximo": "" 
         }
-    except Exception as e:
-        print(f"❌ Error: {e}")
-        return None
+        lista_sorteos.insert(0, obj)
+        print(f"✅ {numero_real_sorteo} | Fecha: {fecha_sorteo}")
 
-def actualizar_diario():
-    historial = []
-    if os.path.exists(ARCHIVO_JSON):
-        with open(ARCHIVO_JSON, 'r', encoding='utf-8') as f:
-            historial = json.load(f)
-    
-    # Revisar último ID web procesado
-    ultimo_id_web = obtener_ultimo_id_web_procesado()
-    
-    print(f"> Reprocesando último ID ({ultimo_id_web}) para buscar pozo...")
-    dato_actualizado = procesar_sorteo(ultimo_id_web)
-    
-    if dato_actualizado:
-        # Actualizar el existente
-        for i, s in enumerate(historial):
-            if s.get('id_web') == ultimo_id_web:
-                historial[i] = dato_actualizado
-                break
-        # O si no estaba, agregarlo
-        else:
-             historial.insert(0, dato_actualizado)
+    except Exception as e: print(f"❌ {e}")
 
-    # Intentar el siguiente
-    siguiente = ultimo_id_web + 1
-    print(f"> Buscando nuevo ({siguiente})...")
-    dato_nuevo = procesar_sorteo(siguiente)
-    if dato_nuevo:
-        historial.insert(0, dato_nuevo)
-        guardar_ultimo_id_web(siguiente)
+# Solo si es script de historial masivo, guarda pisando todo. 
+# Si es scraper diario, usa la lógica de insert.
+with open('datos_poceada.json', 'w', encoding='utf-8') as f:
+    json.dump(lista_sorteos, f, indent=4, ensure_ascii=False)
 
-    with open(ARCHIVO_JSON, 'w', encoding='utf-8') as f:
-        json.dump(historial, f, indent=4, ensure_ascii=False)
-
-if __name__ == "__main__":
-    actualizar_diario()
+print(f"\n✨ LISTO.")

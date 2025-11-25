@@ -1,32 +1,5 @@
 [
     {
-        "numeroSorteo": 2229,
-        "id_web": 861,
-        "fecha": "2025-11-24 21:00:00",
-        "numerosGanadores": [
-            12,
-            14,
-            22,
-            34,
-            59,
-            65,
-            69,
-            78,
-            86,
-            92
-        ],
-        "pozo5aciertos": "89.675.806,45",
-        "vacante5aciertos": true,
-        "ganadores4aciertos": 49,
-        "premio4aciertos": "351.369,63",
-        "ganadores3aciertos": 1217,
-        "premio3aciertos": "3.536,79",
-        "ganadores2aciertos": 13073,
-        "premio2aciertos": "1.000,00",
-        "pozoEstimadoProximo": "0",
-        "fechaProximo": ""
-    },
-    {
         "numeroSorteo": 2236,
         "id_web": 868,
         "fecha": "2025-11-22 21:00:00",
@@ -245,7 +218,7 @@
     {
         "numeroSorteo": 2228,
         "id_web": 860,
-        "fecha": "2025-11-24 21:00:00",
+        "fecha": "2025-11-04 21:00:00",
         "numerosGanadores": [
             31,
             45,
