@@ -14,8 +14,8 @@ ARCHIVO_JSON = 'datos_poceada.json'
 CARPETA_BACKUP = 'backups'
 
 # RANGO para probar (Ajusta a lo que necesites, ej: el último ID 868)
-RANGO_INICIO = 860 
-RANGO_FIN = 875 
+RANGO_INICIO = 480 
+RANGO_FIN = 900
 
 lista_sorteos = []
 print(f"--- ROBOT FECHAS HTML ({RANGO_INICIO}-{RANGO_FIN}) ---")
