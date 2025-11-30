@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 import os
-import sys # Para frenar si hay peligro
+import sys
 from datetime import datetime
 from io import BytesIO
 from pypdf import PdfReader
@@ -15,7 +15,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ARCHIVO_JSON = 'datos_poceada.json'
 CARPETA_BACKUP = 'backups'
 
-# ID Base de seguridad
+# ID Base de seguridad (Por si se borra el archivo de control)
 ID_SEGURIDAD = 860 
 
 def obtener_ultimo_id_web_procesado():
@@ -81,8 +81,7 @@ def procesar_sorteo(id_url):
                     reader = PdfReader(BytesIO(resp_pdf.content))
                     texto_pdf = ""
                     for page in reader.pages: texto_pdf += page.extract_text() + " "
-                    
-                    texto_limpio = " ".join(texto_pdf.split()) # Limpieza fuerte
+                    texto_limpio = " ".join(texto_pdf.split()) 
 
                     # Fecha
                     match_f = re.search(r'(\d{2})[-/](\d{2})[-/](\d{2,4})', texto_limpio)
@@ -97,7 +96,6 @@ def procesar_sorteo(id_url):
                         match_pozo = re.search(r'(\d{1,3}(?:\.\d{3})*,\d{2})', parte)
                         if match_pozo: pozo_proximo = match_pozo.group(1)
                         else:
-                             # Intento secundario
                              m2 = re.search(r'\$\s*([\d\.]+)', parte)
                              if m2: pozo_proximo = m2.group(1)
 
@@ -149,18 +147,17 @@ def actualizar_diario():
                 historial = json.load(f)
         except Exception as e:
             print(f"🛑 ERROR DE LECTURA JSON: {e}")
-            sys.exit(1) # ¡ABORTAR! No tocar nada.
+            sys.exit(1) # ¡ABORTAR!
     
     # BLINDAJE: Si el historial se encogió misteriosamente, no guardamos.
     if len(historial) < 50 and os.path.exists(ARCHIVO_JSON):
-        print(f"🛑 ALERTA DE SEGURIDAD: El historial tiene solo {len(historial)} registros. Debería tener +400.")
-        print("🛑 Se cancela la escritura para no perder datos históricos.")
-        sys.exit(1) # ¡ABORTAR!
+        print(f"🛑 ALERTA: Historial demasiado corto ({len(historial)}). ABORTANDO.")
+        sys.exit(1) 
 
     # 2. PROCESO DE ACTUALIZACIÓN
     ultimo_id_web = obtener_ultimo_id_web_procesado()
     
-    # A. Revisar último (para actualizar pozo si faltaba)
+    # A. Revisar último
     print(f"> Revisando ID {ultimo_id_web}...")
     dato_actualizado = procesar_sorteo(ultimo_id_web)
     if dato_actualizado:
@@ -179,7 +176,7 @@ def actualizar_diario():
         guardar_ultimo_id_web(siguiente)
         print("🎉 ¡NUEVO SORTEO AGREGADO!")
 
-    # 3. GUARDAR (Solo si llegamos aquí seguros)
+    # 3. GUARDAR
     with open(ARCHIVO_JSON, 'w', encoding='utf-8') as f:
         json.dump(historial, f, indent=4, ensure_ascii=False)
         
