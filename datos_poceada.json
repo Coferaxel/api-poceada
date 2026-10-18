@@ -1,5 +1,33 @@
 [
     {
+        "numeroSorteo": 2371,
+        "id_web": 0,
+        "fecha": "2026-10-17 21:00:00",
+        "numerosGanadores": [
+            11,
+            12,
+            24,
+            29,
+            41,
+            59,
+            63,
+            71,
+            88,
+            97
+        ],
+        "pozo5aciertos": "98.996.539,56",
+        "vacante5aciertos": false,
+        "ganadores5aciertos": 1,
+        "ganadores4aciertos": 52,
+        "premio4aciertos": "489.462,00",
+        "ganadores3aciertos": 1115,
+        "premio3aciertos": "5.706,73",
+        "ganadores2aciertos": 12052,
+        "premio2aciertos": "1.500,00",
+        "pozoEstimadoProximo": "65.103.916,80",
+        "fechaProximo": ""
+    },
+    {
         "numeroSorteo": 2370,
         "id_web": 0,
         "fecha": "2026-10-15 21:00:00",
