@@ -1,5 +1,33 @@
 [
     {
+        "numeroSorteo": 2374,
+        "id_web": 0,
+        "fecha": "2026-10-24 21:00:00",
+        "numerosGanadores": [
+            5,
+            20,
+            37,
+            40,
+            61,
+            76,
+            84,
+            92,
+            93,
+            96
+        ],
+        "pozo5aciertos": "93.619.341,46",
+        "vacante5aciertos": true,
+        "ganadores5aciertos": 0,
+        "ganadores4aciertos": 28,
+        "premio4aciertos": "851.699,84",
+        "ganadores3aciertos": 681,
+        "premio3aciertos": "8.754,62",
+        "ganadores2aciertos": 9006,
+        "premio2aciertos": "1.500,00",
+        "pozoEstimadoProximo": "182.749.729,64",
+        "fechaProximo": ""
+    },
+    {
         "numeroSorteo": 2373,
         "id_web": 0,
         "fecha": "2026-10-22 21:00:00",
